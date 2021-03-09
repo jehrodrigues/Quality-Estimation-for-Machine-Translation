@@ -1,0 +1,228 @@
+Error category;Error type;Severity;Source Text;Target Text;Suggested Target Text
+Accuracy;Mistranslation;Minor;это не моя вина;je n'y peux rien.;je n'y suis pour rien.
+Accuracy;Mistranslation;Minor;сегодня прощальный день а завтра похорон;aujourd'hui c'est le jour des adieux et demain on l'enterre;aujourd'hui c'est le jour des adieux et demain c'est l'enterrement
+Accuracy;Mistranslation;Major;доброго дня;belle journée;bonjour
+Accuracy;Mistranslation;Critical;все плохое это русское;tout ce qui est russe est mauvais, donc;tout ce qui est mauvais est russe
+;;;все плохое это русское;tout ce qui est mauvais est russe;
+;;;марш отсюда;marche d'ici;
+Fluency;Inconsistency;Minor;Я люблю и я буду носить шубы из соболя из норки сумки из крокодила и змеи я люблю;J'aime et je porterai des manteaux de zibeline et vison, des sacs de crocodile et de serpents, j'adore;J'aime et je porterai des manteaux de zibeline et vison, des sacs de crocodile et de serpents
+Fluency;Inconsistency;Minor;Я люблю и я буду носить шубы из соболя из норки сумки из крокодила и змеи я люблю;J'aime et je vais porter des manteaux de zibeline et vison, des sacs de crocodile et de serpents, je préfère;J'aime et je vais porter des manteaux de zibeline et vison, des sacs de crocodile et de serpents
+Accuracy;Mistranslation;Major;есть китайский салон длинных ресниц;il y a un salon chinois pour les longs cils;il y a un salon chinois pour se faire l’extension des cils
+Accuracy;Improper exact TM match;Minor;привет саймон;bonjour Simon;salut Simon
+Accuracy;Mistranslation;Minor;Я теперь буду учиться каждый день никогда не буду пропускать;Je vais étudier tous les jours dès maintenant et je ne vais jamais manquer ça.;Je vais étudier tous les jours et je ne vais jamais sécher les cours.
+Accuracy;Mistranslation;Critical;направо;vers la droite;
+Fluency;Grammar;Major;А где тут ваши туалеты;Et où sont vos toilettes;Et où est le toilette
+Accuracy;Untranslated text;Critical;Вадик гомосек;Vadik Gamosek.;Vadik est un pétanqueur.
+Accuracy;Untranslated text;Critical;Вадик гомосек;Vadik Gamosek.;Vadik est un tarlouze.
+Fluency;Grammar;Minor;как чпокнуть жену;comment baiser ta femme;comment baiser la femme
+Fluency;Grammar;Minor;как чпокнуть жену;comment niquer ta femme;comment niquer la femme
+Accuracy;Mistranslation;Minor;здравствуйте меня зовут Миша;Bonjour moi c'est Micha;Bonjour je suis Micha
+Fluency;Grammar;Minor;замечательно начинается неделя;bon début de semaine;bon début de la semaine
+Accuracy;Omission;Major;У нас всё отлично мне нужна от вас конкретная партия бриллиантов;ça va bien pour nous, j'ai besoin que vous me donniez des diamants.;ça va bien pour nous, j'ai besoin que vous me donniez un lot spécifique de diamants
+Fluency;Grammar;Major;Я к тебе могу подъехать в 07:30 в 8 вечера если ты ещё не будешь спать;Je peux venir te voir à 7ₒhₒ30 et à 20ₒh si tu ne dors toujours pas;Je pourrai venir te voir de 7ₒhₒ30 à 20ₒh si tu ne dors pas encore
+;;;Я к тебе могу подъехать в 07:30 в 8 вечера если ты ещё не будешь спать;Je peux venir te voir à 7h30 et à 20ₒh si tu ne dors pas encore;
+;;;находить ответ;trouver la réponse;
+Fluency;Spelling;Minor;можете купить мне билет до Брауншвейга;pouvez-vous m'acheter un billet directon Braunschweig;pouvez-vous m'acheter un billet direction Braunschweig
+Fluency;Grammar;Major;богатого продавца;un riche marchand;un marchand riche
+Fluency;Inconsistency;Major;получив телеграмму моя сестра выехала в Лондон;après avoir reçu le télégramme ma sœur est allé à Londres;après avoir reçu le télégramme ma sœur est partie à Londres
+;;;получив телеграмму моя сестра выехала в Лондон;après avoir reçu le télégramme ma sœur est partie à Londres;
+Fluency;Grammar;Major;ты мне так и не ответил сегодня я тебя спрашивал много раз вместе мы с тобой или нет и увидимся ли мы с тобой на этой неделе или нет;Tu ne m'as jamais répondu aujourd'hui. Pourtant, je t'avais demandé mille fois si on était toujours ensemble ou pas et si on se verrait cette semaine ou pas.;Tu ne m'as jamais répondu aujourd'hui. Pourtant, je t'avais demandé mille fois si on était toujours ensemble ou pas et si on se voyait cette semaine ou pas.
+Fluency;Grammar;Major;ты мне так и не ответил сегодня я тебя спрашивал много раз вместе мы с тобой или нет и увидимся ли мы с тобой на этой неделе или нет;Aujourd'hui je n'ai reçu aucune réponse de ta part, alors que je t'avais demandé plusieurs fois si on restait ensemble ou pas et si on se croiserait dans la semaine ou pas.;Aujourd'hui je n'ai reçu aucune réponse de ta part, alors que je t'avais demandé plusieurs fois si on restait ensemble et si on se croisait dans la semaine.
+;;;почему ты не знаешь английский язык;pourquoi tu ne connais pas l'anglais;
+Accuracy;Mistranslation;Minor;Анна будет там;Anna sera des nôtres;Anna y sera
+Fluency;Grammatical register;Major;Я вас сюда привёз;je t'ai amené ici;Je vous ai amené ici.
+;;;права потребителя;droits du consommateur;
+Fluency;Grammar;Major;Я почувствовал как он положил мою руку на плечо;J'ai senti qu'il posait ma main sur son épaule.;J'ai senti qu'il aviat posé ma main sur son épaule.
+Fluency;Grammatical register;Major;привет пожалуйста добавь меня;salut s'il vous plaît ajoutez-moi;salut, s'il te plaît, ajoute-moi
+Accuracy;Mistranslation;Critical;Я получил от ветра;Je l'ai eu par surprise.;Je l’ai eu du vent
+Fluency;Grammar;Major;разбираться в искусстве;il s'y connaît en art;se connaitre en art
+Accuracy;Mistranslation;Critical;разбираться в искусстве;adepte de l'art;comprendre l'art
+Accuracy;Mistranslation;Minor;подготавливала проекты ответов на обращения юридических и физических лиц;je préparais des projets de réponses aux personnes juridiques et physiques;préparais des projets de réponses aux personnes morales et physiques
+Fluency;Grammar;Minor;Я говорила все ли у вас хорошо;Je demandais si vous alliez bien.;Je demandais si vous allez bien.
+Accuracy;Mistranslation;Major;тупая пизда иди на хуй;stupide menteuse, va te faire foutre;stupide chatte, va te faire foutre
+Fluency;Grammar;Minor;вкусный блин;une délicieuse crêpe;une crêpe délicieuse
+Accuracy;Over-translation;Minor;спасибо за вчерашнее вчера поздно ночь был я не хотел тебя беспокоить поэтому хотел сегодня благодарить спасибо тебе;Merci pour la nuit dernière, je ne tenais pas à vous déranger voulais donc vous remercier aujourd'hui.;Merci pour la nuit dernière, je ne tenais pas à vous déranger donc je voudrais vous remercier aujourd'hui.
+Accuracy;Mistranslation;Major;Я тебя не понимаю если я для тебя друг ты почему просишь меня чтобы я тебя поцеловала;Je ne te comprends pas. Si je suis ton ami, pourquoi me demandes-tu de t'embrasser?;
+Fluency;Grammar;Minor;горит лампочка РБК;Une ampoule RBK est brille.;Une ampoule RBK brille.
+Accuracy;Mistranslation;Critical;счёт пожалуйста;ça fait combien, s'il vous plaît;la note, s'il vous plaît
+;;;это был затяжной парашютный прыжок;c'était un saut en parachute prolongé;
+Fluency;Grammar;Minor;дочка старшая её зовут Милана ей 11 лет;c'est la fille qui est aînée, elle s'appelle Milana, elle a 11 ans;c'est ma fille aînée, elle s'appelle Milana, elle a 11 ans
+Fluency;Grammatical register;Major;У нас немецкая овчарка;On a un berger allemand;Nous avons un berger allemand
+Fluency;Grammar;Major;Марина прошу вас дай твой адрес;Marina, je vous demande donne-moi ton adresse;Marina, je vous demande de me donner votre adresse
+Fluency;Grammatical register;Minor;Марина прошу вас дай твой адрес;Marina, donne-moi ton adresse s'il te plaît;Marina, donnez-moi votre adresse s'il vous plaît
+Accuracy;Under-translation;Critical;;;Bonjour
+Accuracy;Under-translation;Critical;здравствуйте здравствуйте;;Salut
+Accuracy;Mistranslation;Major;военные условия;les conditions difficiles;l'environnement militaire
+;;;орёл решка;pile ou face;
+Accuracy;Mistranslation;Major;Я тебя бесконечно люблю;je t'aime pour toujours;je t'aime infiniment
+Fluency;Grammar;Major;Я отвечала ты меня не слышал разве;J'ai répondu tu ne m'as pas entendu;J'ai répondu, ne m'avais-tu pas entendu?
+Fluency;Grammatical register;Minor;Я отвечала ты меня не слышал разве;J'ai donné la réponse tu ne l'as pas entendue;J'ai donné la réponse tu ne l'avais pas entendu
+Accuracy;Under-translation;Critical;что такое квартал Николая?;quel est le quartier de Nicolas ?;Que’est-ce que le quartier Nicolas ?
+Accuracy;Under-translation;Critical;что такое квартал Николая?;Où habite Nicolas ?;C’est quoi le quartier Nicolas?
+;;;Испания станет чемпионом чемпионата мира;L'Espagne deviendra championne du monde;
+Fluency;Grammar;Minor;переселился с племенами мусульман к берегам азовского и Каспийского морей;se déplace avec des tribus musulmanes sur les rives de la mer d'Azov et de la mer Caspienne;s’est déplacé avec des tribus musulmanes sur les rives de la mer d'Azov et de la mer Caspienne
+Fluency;Spelling;Minor;как вчера вечером посидели;Comment vous avez passé su temps hier ?;Comment vous avez passé du temps hier?
+;;;после Долгих уроков я была у репетитора;Après un long cours, j'étais chez le tuteur.;
+Fluency;Grammar;Minor;после Долгих уроков я была у репетитора;Après un long cours, j'étais chez le tuteur.;Après de long cours, j'étais chez le tuteur.
+Fluency;Inconsistency;Major;надо поехать поменять скоро буду;Je vais bientôt devoir aller le changer, je vais revenir bientôt;Il faut bientôt aller le changer, je vais revenir bientôt
+Fluency;Grammatical register;Minor;подскажите где я могу взять чистое полотенце;vous pouvez me dire, où je peux prendre une serviette propre;pouvez-vous me dire, où je peux prendre une serviette propre
+;;;если ты права;si tu as raison;
+Fluency;Grammar;Minor;есть ли у вас аллергия на лекарства;avez-vous des allergie aux médicaments;avez-vous une allergie aux médicaments
+Accuracy;Omission;Minor;какая завтра будет погода;le temps de demain; comment sera le temps demain
+;;;мидии;moules;
+Fluency;Grammar;Minor;А также для девочек лучшим другом становится мама. Мама это тот человек который не предаст тебя, ты можешь с ней секретничать, обсудить какие-то вещи. А также бывают;Et aussi pour les petites filles, la mère devient une meilleure amie. La mère est cette personne qui ne trahit pas, à qui l'on peut confier ses secrets et discuter de certaines choses. Et il y a aussi;Et aussi pour les petites filles, la mère devient la meilleure amie. La mère est une personne qui ne trahit pas, à qui l'on peut confier ses secrets et discuter de certaines choses. Et il y a aussi
+Fluency;Grammatical register;Minor;сколько лет тебе;quel âge avez-vous;quel âge as-tu
+Fluency;Grammar;Minor;спрашивает есть ли у них в понедельник история и математика;demande s'ils ont cours d'histoire et de maths lundi;demande s'ils ont les cours d'histoire et de maths à lundi
+;;;полюбоваться красотой природы;S'émerveiller devant la beauté de la nature.;
+;;;курица балык;poulet fumé;
+Fluency;Spelling;Minor;здравствуй Анжела;bonjour Angela;bonjourб Angéla
+Accuracy;Mistranslation;Critical;от города 55 км где-точ едем до вашего адреса;de la ville de 55 km à votre adresse.;Nous sommes de 55 km de la ville à votre adresse.
+Accuracy;Mistranslation;Critical;от города 55 км где-точ едем до вашего адреса;de la ville  on 55 km jusqu'à votre adresse.;On est à 55 km de la ville jusqu'à votre adresse.
+Fluency;Grammatical register;Minor;не читает книги;il ne lit pas de bouquins;ne lit pas de bouquins
+Fluency;Grammar;Minor;но мне нужно будет с ней поговорить сегодня и сегодня я тебе тогда дам ответ а какие твои предложения;Mais je vais devoir lui parler aujourd'hui. Et aujourd'hui, je te donnerai une réponse. Quelles sont tes propositions ?;Mais je dois lui parler aujourd'hui. Et aujourd'hui, je te donnerai une réponse. Quelles sont tes propositions?
+Fluency;Grammar;Minor;но мне нужно будет с ней поговорить сегодня и сегодня я тебе тогда дам ответ а какие твои предложения;Mais je vais devoir lui parler aujourd'hui. Et aujourd'hui, alors je te donnerai une réponse. Qu'est-ce que tu proposes ?;Mais je dois lui parler aujourd'hui. Et aujourd'hui, alors je te donnerai une réponse. Qu'est-ce que tu proposes?
+Fluency;Punctuation;Minor;В вашем свифте нету ничего ни суммы ни актива ни счёта ни номера;Il n'y a rien dans votre swift, pas de montant, pas d'actif pas de numéro.;Il n'y a rien dans votre swift, pas de montant, pas d'actif, pas de numéro.
+Fluency;Grammar;Minor;В вашем свифте нету ничего ни суммы ни актива ни счёта ни номера;Il n'y a rien sur votre swift, aucun montant, ni actif ou ni numéro.;Il n'y a rien sur votre swift, aucun montant, actif ou numéro.
+;;;как выздоровеем обязательно куда-нибудь сходим;Quand on sera guéri, on ira sûrement quelque part.;
+Accuracy;Mistranslation;Critical;Я не хочу уходить из этой школы и подводить маму;Je ne veux pas laisser tomber cette école et ma mère avec;Je ne veux pas quitter cette école et lâcher maman
+Accuracy;Mistranslation;Critical;сколько стоит это блюдо;La valeur qu'elle représente;combien coûte ce plat
+Accuracy;Under-translation;Major;сколько стоит это блюдо;ce que cela vaut;combient ce plat vaut
+Accuracy;Mistranslation;Critical;свежий чай заварила тебе;thé frais à votre attention;du thé frais pour toi
+Fluency;Grammatical register;Minor;свежий чай заварила тебе;;du bon thé frais préparé pour toi
+Accuracy;Mistranslation;Critical;меня заплетают;Je m'emballe;On me tresse
+Accuracy;Mistranslation;Critical;меня заплетают;Je m'emporte;On me fait des nattes.
+;;;Чёрная пантера;La Panthère noire;
+Accuracy;Mistranslation;Critical;как пройти в отель;L'hôtel c'est par où;comment aller à l'hôtel
+Accuracy;Mistranslation;Critical;как пройти в отель;C'est quoi le chemin de l'hôtel;comment se rendre à l'hôtel
+Accuracy;Under-translation;Major;переносная крыша для автомобиля;un abri pour une voiture;un toit portable pour voiture
+Accuracy;Mistranslation;Critical;мы прилетаем в 10:00 есть возможность сделать check-in где-то в 11:00;Nous sommes ravis que tu sois là et pas autre personne;nous arrivons à 10:00 il est possible de faire un check-in vers 11:00 heures
+;;;Макдональдс кафе Бургер Кинг грузинская кухня;McDonald's, Burger King, cuisine géorgienne;
+;;;4°;4°;
+Fluency;Grammar;Minor;огурец а соевый соус есть;il y a un concombre et de la sauce soja;il y a un concombre et s'il y a de la sauce soja
+Fluency;Grammar;Minor;огурец а соевый соус есть;on a un concombre et de la sauce soja;on a un concombre et a-t-on de la sauce soja
+Accuracy;Omission;Major;неужели я тебя нашел;Je t'ai trouvé, non;est-ce que je t'ai trouvé
+Fluency;Grammar;Major;если мне понравится я куплю;Si j'aime, j'achète;Si je l'aime, je l'acheterai
+Accuracy;Mistranslation;Major;батарейка в пульте от телевизора не работает;une pile dans la télécommande de la télé ne marche pas;une pile dans la télécommande de la télé est morte
+Accuracy;Mistranslation;Major;батарейка в пульте от телевизора не работает;une pile dans la télécommande de la télé ne marche pas;une pile dans la télécommande de la télé est épuisée
+Accuracy;Omission;Minor;дорогой друг купи это вино это самое вкусное и замечательное вино во всём нашем Тбилиси;Chéri, achète ce vin. C'est le vin le plus délicieux et le plus merveilleux de tout Tbilissi;Cher ami, achète ce vin. C'est le vin le plus délicieux et le plus merveilleux de tout Tbilissi
+Accuracy;Omission;Major;дорогой друг купи это вино это самое вкусное и замечательное вино во всём нашем Тбилиси;Chéri, achète ce vin. C'est le plus délicieux et le plus merveilleux de tout Tbilissi;Cher ami, achète ce vin. Il le plus délicieux et le plus merveilleux de tout Tbilissi
+Fluency;Punctuation;Minor;привет как дела у меня всё хорошо;bonjour comment ça va je vais bien;bonjour, comment ça va? je vais bien
+Fluency;Grammar;Minor;Я приехал из Баку;Je viens de Bakou;Je suis venu de Bakou
+Fluency;Grammar;Minor;Я приехал из Баку;J'arrive de Bakou;Je suis arrivé de Bakou
+Accuracy;Mistranslation;Critical;привет меня зовут Евгений но вы меня можете звать хуесос;salut je m'appelle Eugène, mais vous pouvez m'appeler un huesos;salut je m'appelle Eugène, mais vous pouvez m'appeler gobeur de chibre
+Accuracy;Mistranslation;Critical;привет меня зовут Евгений но вы меня можете звать хуесос;salut, mon prénom est Eugène mais vous pouvez m'appeler hueso;salut, mon prénom est Eugène mais vous pouvez m'appeler gobeur de chibre
+Fluency;Grammar;Major;если бы ты купил машину это было бы дорого содержать её;si tu achètes une voiture, son etretien coûtera cher;si tu avias acheté une voiture, son etretien aurait coûté cher
+Fluency;Grammar;Major;если бы ты купил машину это было бы дорого содержать её;si tu achètes une voiture, il serait coûteux de la garder;si tu avais acheté une voiture, il aurait été coûteux de la garder
+Fluency;Grammar;Major;моей кошке четыре года;mon chat a quatre ans;ma chatte a quatre ans
+Accuracy;Mistranslation;Critical;как проехать на базар;commercialiser;comment aller au marché?
+Accuracy;Mistranslation;Critical;привет как дела моя сучка бесплатная;bonjour elle va comment ma chienne libérée;bonjour comment ça va ma conne gratuite
+Accuracy;Mistranslation;Critical;привет как дела моя сучка бесплатная;salut comment ça va ma belle est disponible;salut comment ça va ma salope disponible
+;;;но не могу у меня нет такого средства;mais je ne peux car je n'ai pas de ce produit;
+Accuracy;Omission;Minor;но не могу у меня нет такого средства;mais je ne peux car je n'ai pas de ce produit;mais je ne peux pas car je n'ai pas de ce produit
+;;;нет хорошо и здесь тоже там полумрак как бы а здесь хорошо светло как на улице сидим;non c'est bon, et ici aussi, il y a un crépuscule, pour ainsi dire, mais ici c'est bien il fait jour comme si on est assis dans la rue;
+Fluency;Grammar;Minor;когда я вернулся домой мой брат уже спал;quand je suis rentré, mon frère dormait déjà;quand je suis rentré, mon frère avait déjà dormi
+Accuracy;Mistranslation;Critical;солёный сладкий свежий кислый горький;aigre-doux frais mariné amer;salé doux frais aigre amer
+;;;солёный сладкий свежий кислый горький;salé doux frais aigre amer;
+Fluency;Grammar;Minor;он даже пригласил нас в кино;il nous a même invités au cinéma;il nous a même invité au cinéma
+;;;он даже пригласил нас в кино;il nous a même invité au cinéma;
+Accuracy;Improper exact TM match;Major;какой твой лучший футбольный игрок;quel est ton meilleur joueur de football ;qui est ton joueur de football préféré
+Accuracy;Improper exact TM match;Major;какой твой лучший футбольный игрок;quel est ton meilleur footballeur;qui est ton footballeur préféré
+;;;но у Гилермо есть на букинг мой контакт может он мне скинуть свой контакт и было бы очень приятно в дальнейшем с вами общаться;mais Guillermo a mon contact sur le booking, alors il peut m'envoyer le sien, ça me fera plaisir de rester en contact avec vous.;
+Fluency;Grammar;Major;Я тебя отвоюю;Je te récupère.;Je te récupèrerai
+Fluency;Grammar;Major;Я тебя отвоюю;Je te prends en passant.;Je te prendrai en passant.
+Accuracy;Mistranslation;Critical;занимаешься ли ты преподаванием английского;Formez-vous en anglais ?;enseigne-tu l'anglais
+Fluency;Grammatical register;Minor;занимаешься ли ты преподаванием английского;enseignez-vous l'anglais;enseigne-tu l'anglais
+Accuracy;Omission;Minor;или может быть потрахать тебя в попу;ou peut-être t'enculer;ou peut-être je t'encule?
+Fluency;Grammar;Minor;Я очень долго думала я месяц ходила злая;J'ai réfléchis pendant très longtemps. J'étais fâchée pendant un mois.;J'ai réfléchi pendant très longtemps. J'étais fâchée pendant un mois.
+Accuracy;Under-translation;Major;У вас есть какая-то еда из молока например творог Сметана;Avez-vous des produits laitiers comme du cottage cheese;Avez-vous des produits laitiers comme du fromage blanc ou de la crème fraîche
+Accuracy;Under-translation;Major;У вас есть какая-то еда из молока например творог Сметана;Avez-vous des produits à base de lait comme du fromage cottage;Avez-vous des produits à la base du lait comme du fromage blanc ou de la crème fraîche
+;;;куда мы пойдём;Où irons nous;
+;;;Я запаковала подарок;J'ai emballé le cadeau.;
+Fluency;Grammatical register;Minor;сколько армян у вас живёт;combien d'arméniens vivent chez toi;combien d'arméniens vivent chez vous
+;;;сколько армян у вас живёт;combien d'arméniens vivent chez vous;
+Fluency;Grammatical register;Minor;успехов во всём что ты делаешь;succès dans tout ce que vous faites;succès dans tout ce que tu fais
+Fluency;Grammatical register;Minor;успехов во всём что ты делаешь;réussite dans toutes vos entreprises;réussite dans toutes tes entreprises
+;;;что я родился в России;que je suis né en Russie;
+;;;мне надо купить фторопласт;Je dois acheter du plastique fluoré.;
+Accuracy;Addition;Minor;привет моя любовь я очень устала я хочу сказать тебе что мои мысли всегда с тобой я посылаю тебе много поцелуев на расстоянии;Salut, mon chéri. Je suis exténuée. Je veux sur te dire que tu es toujours dans mes pensées. Je t'envoie beaucoup de bisous.;Salut, mon chéri. Je suis exténuée. Je veux te dire que tu es toujours dans mes pensées. Je t'envoie beaucoup de bisous.
+Fluency;Grammar;Minor;поехали в аэропорт на рейс;aller à l'aéroport et prendre un vol;allons-nous à l'aéroport et prenons un vol
+Fluency;Grammar;Major;поехали в аэропорт на рейс;ils ont pris un vol à l'aéroport;allons à l'aéroport pour un vol
+Accuracy;Under-translation;Major;ну как тебе Россия;t'en penses quoi de la Russie;Comment trouve-tu la Russie
+Fluency;Grammar;Major;государственной власти;les autorités étatique;les autorités étatiques
+Fluency;Grammatical register;Minor;И сколько можно ждать этого пиджака если зима уже закончилась фотографии вы используете практически каждый день с этой съемки;Combien de temps pouvez-vous attendre pour cette veste si l'hiver est déjà terminéₒ? Des photos que vous utilisez presque tous les jours par le shooting;Combien de temp peut-on attendre pour cette veste si l'hiver est déjà terminéₒ? Des photos que vous utilisez presque tous les jours par le shooting
+Fluency;Grammatical register;Minor;И сколько можно ждать этого пиджака если зима уже закончилась фотографии вы используете практически каждый день с этой съемки;Et combien de temps pouvez-vous attendre pour cette veste si l'hiver est déjà terminé des photos que vous utilisez presque tous les jours avec ce shooting;Et combien de temps peut-on attendre pour cette veste si l'hiver est déjà terminé des photos que vous utilisez presque tous les jours avec ce shooting
+Accuracy;Mistranslation;Major;мам ты когда перестанешь болеть и пойдёшь на работу;Maman, quand est-ce que tu arrêteras d'être malade et que tu iras travailler.;Maman, quand est-ce que tu te remettras et iras travailler.
+Accuracy;Mistranslation;Major;мам ты когда перестанешь болеть и пойдёшь на работу;Maman, quand est-ce que tu ne seras plus malade et que tu pourras aller travailler.;Maman, quand est-ce que gueriras et que tu pourras aller travailler.
+;;;моя биография;ma biographie;
+Fluency;Grammar;Minor;казанская станция 20 минут;Station de Kazanskaya, 20 minutes;Station Kazanskaya, 20 minutes
+Fluency;Grammar;Minor;казанская станция 20 минут;Station de Kazanskaya est dans 20 minutes;Station Kazanskaya est dans 20 minutes
+;;;В 2018-м году;En 2018;
+Accuracy;Mistranslation;Major;это цена на обычную ступеньку;est le prix d'une étape normale;c'est le prix d'un marchepied normal
+Accuracy;Addition;Minor;вы не знаете какой да;vous ne savez pas lequel, n'est-ce pas pas;vous ne savez pas lequel, n'est-ce pas
+;;;Я ухожу домой;Je rentre à la maison;
+Fluency;Grammar;Major;Я не уверен что это ты Анна и тебе 27 лет;Je ne suis pas sûr que tu es Anna et que tu aies 27 ans.;Je ne suis pas sûr que tu ыщшы Anna et que tu aies 27 ans.
+Accuracy;Addition;Critical;это вам улица Терешкова получается;Voici la rue Tereshkova et ce qu'elle fait pour vous.;Voici la rue Tereshkova
+Accuracy;Addition;Critical;это вам улица Терешкова получается;Voilà ce que la rue Tereshkova fait pour vous.;Voilà la rue Tereshkova
+;;;Красная площадь;Place Rouge;
+Accuracy;Mistranslation;Major;просто послушай их;juste les écouter;Il suffit de les écouter.
+Accuracy;Improper exact TM match;Major;Карина ты долбоёб;Karina, tu es une salope;Karina, tu es un trouduc
+Fluency;Grammar;Major;В Орлёнке мы будем плавать в бассейне участвовать в разных конкурсах;A Orlyonka nous nagerons dans la piscine durant les différentes compétitions;À Orlyonok nous allons nager dans la piscine durant des compétitions différentes
+Fluency;Spelling;Minor;В Орлёнке мы будем плавать в бассейне участвовать в разных конкурсах;À Orlyonka, nous nagerons dans la piscine lors de diverses compétitions;À Orlyonok, nous nagerons dans la piscine lors de diverses compétitions
+Accuracy;Mistranslation;Major;улица Гагарина;Ulitsa Gagarina;Rue Gagarina
+;;;день рождения;anniversaire;
+Accuracy;Mistranslation;Critical;дай Аллах тебя я забуду;Allah m'interdit de t'oublier.;Avec Allah je t'oublierai
+Accuracy;Addition;Major;дай Аллах тебя я забуду;Allah je t'oublie comme tu m'as oublié;avec Allah je t'oublie
+;;;полуторамиллионным тиражом;un million et demi d'exemplaires;
+Fluency;Grammar;Major;вы не знаете где лиана она после школы домой не пришла;vous ne savez pas où Liana n'est pas rentrée à la maison après l'école;savez-vous si Liana est rentrée à la maison après l'école
+;;;пошла на шею;allée sur le cou;
+;;;сейчас;maintenant;
+Fluency;Grammatical register;Minor;ты будешь делать свою работу;vous ferez votre travail.;tu feras ton travail.
+Fluency;Grammatical register;Minor;девочка с которой я общаюсь сказала что ты красивая;la fille à qui je parle m'a fait savoir que vous étiez belle.;la fille à qui je parle m'a dit que tu es belle.
+Accuracy;Omission;Minor;В России зимой часто идёт снег.;Il neige souvent en Russie l'hiver.;Il neige souvent en Russie pendant l'hiver.
+Accuracy;Mistranslation;Major;хочешь сам звони;Tu veux t'appeler toi-même.;Si tu veux, appele toi-même.
+Accuracy;Mistranslation;Major;хочешь сам звони;tu veux t'appeler;tu veux-  tu appelles
+Fluency;Grammar;Minor;хорошо давай завтра во сколько ты будешь свободна;ok c'est bon pour demain à quelle est seras-tu libre;ok c'est bon pour demain à quelle seras-tu libre
+Fluency;Punctuation;Minor;как ехать до Бесос-Мар;comment aller à Besos-Mar;comment aller à Besos-Mar?
+Fluency;Spelling;Minor;он пошёл на тренировки до школы;il est allé s'entraîner avant de paratir à l'école.;il est allé s'entraîner avant de partir à l'école.
+Fluency;Punctuation;Minor;туристы ещё любят город Брест, Гродно,. Нужно выезжать туда рано утром и к вечеру все возвращаются назад;les touristes aiment encore les villes de Brest, de Grodno,. Nous devons partir tôt le matin et le soir tout le monde revient;les touristes aiment encore les villes de Brest, de Grodno. Nous devons partir tôt le matin et le soir tout le monde revient
+Fluency;Grammar;Major;проблема с мусором одна из самых больших проблем современности;les déchets ou l'un des plus grands problèmes de notre époque;les déchets est l'un des plus grands problèmes de notre époque
+Fluency;Grammar;Major;что ты мне можешь посоветовать;Des conseils à propos de…;Tes conseils à propos de…
+Fluency;Grammatical register;Major;что ты мне можешь посоветовать;Vous pouvez me conseiller sur;Tu peux me conseiller sur
+Fluency;Grammar;Major;рис отстой;le riz, j'aime pas;le riz, je ne l'aime pas
+Accuracy;Mistranslation;Critical;оптимист верит что каждая трудность дает нам возможность;l'optimiste croit que face à toute difficulté, il faut;l'optimiste croit que chaque difficulté nous donne une opportunité
+Accuracy;Mistranslation;Critical;оптимист верит что каждая трудность дает нам возможность;l'optimiste estime que pour chaque difficulté, il faut;l'optimiste estime chaque difficulté nous donne une opportunité
+Fluency;Punctuation;Major;как дела у тебя все нормально что нового что ты пропал звоню к тебе ты не отвечаешь все нормально у тебя или ты на что-то обижен дай мне знать в чем проблема;Comment ça tout va bien quoi de neuf pourquoi as-tu disparu j'appelle et tu ne réponds pas tout va bien ou tu es vexé dis-moi quel est le problème.;Comment ça va? tout va bien? quoi de neuf? pourquoi as-tu disparu? je t’appelle et tu ne réponds pas. tout va bien? ou tu es vexé? dis-moi quel est le problème?
+Fluency;Punctuation;Major;как дела у тебя все нормально что нового что ты пропал звоню к тебе ты не отвечаешь все нормально у тебя или ты на что-то обижен дай мне знать в чем проблема;Comment vas-tu tout va bien pourquoi ne réponds-tu pas à mes appels est-ce tu vas bien ou est-ce que tu es fâché dis-moi où est le problème;Comment vas-tu? tout va bien? pourquoi ne réponds-tu pas à mes appels? est-ce tu vas bien ?ou est-ce que tu es fâché? dis-moi où est le problème?
+;;;добрый день Америка люблю вас;bonjour l'Amérique je vous aime;
+Accuracy;Omission;Major;да я очень похожа на индийскую женщину потому что моя прапрабабушка была индианкой;oui, je ressemble beaucoup à une indienne parce que mon arrière-grand-mère était indienne;oui, je ressemble beaucoup à une indienne parce que mon arrière-arrière-grand-mère était indienne
+Accuracy;Mistranslation;Major;меня зовут София мне девять лет моя фамилия Гадейчук;Je suis Sofia, j'ai neuf ans et je m'appelle Gadeychuk.;Je suis Sofia, j'ai neuf ans et mon nom est Gadeychuk.
+Accuracy;Mistranslation;Major;осталось 10 минут бесплатного ожидания;10 minutes d'attente à ne rien faire;il n'y a que 10 minutes d'attente gratuite
+Accuracy;Omission;Major;осталось 10 минут бесплатного ожидания;il restait 10 minutes d'attente;il restait 10 minutes d'attente gratuite
+;;;16, 19, 12;16, 19, 12;
+;;;каково твое слово;quelle est ta parole;
+Fluency;Grammar;Minor;мне не пришло сообщение;Je n'ai pas reçu ton message;Je n'ai pas reçu le message
+Accuracy;Under-translation;Critical;заблокируйте карточку свою сразу;faite l'opposition à votre carte tout de suite;bloquez votre carte tout de suite
+Fluency;Grammatical register;Minor;посмотри на Джулию она выглядит гораздо счастливее сейчас;Regardez Julia, elle semble beaucoup plus heureuse maintenant.;Regarde Julia, elle semble beaucoup plus heureuse maintenant.
+;;;посмотри на Джулию она выглядит гораздо счастливее сейчас;Regarde Julia, elle semble beaucoup plus heureuse maintenant.;
+Accuracy;Mistranslation;Critical;воля вера внимание;Attention;volonté foi attention
+;;;воля вера внимание;volonté foi attention;
+Accuracy;Mistranslation;Critical;;Que fait-elle et comment;Comment ça va et que
+Accuracy;Mistranslation;Major;до свидания спасибо;je vous remercie vraiment;au revoir, merci
+;;;гид нам обещал зону беспошлинной торговли;le guide nous a promis une zone franche.;
+;;;утконос;l'ornithorynque;
+;;;хорошие оценки;bonnes notes;
+Accuracy;Mistranslation;Major;как тебя зовут;quel est ton nom;quel est ton prénom
+Fluency;Grammar;Major;он ещё требуют доработок;il faut encore améliorer;il faut encore l'améliorer
+Fluency;Grammatical register;Minor;что вы завтра будете делать;que vas-tu faire demain;que ferez-vous demain
+Accuracy;Over-translation;Major;филармония;société de philharmonie;philharmonie
+Accuracy;Over-translation;Major;филармония;compagnie philharmonique;philharmonie
+Accuracy;Improper exact TM match;Major;где живёт Андрей Петрович;où vit Andreï Petrovitch;où habite Andreï Petrovitch
+Accuracy;Omission;Major;то Яна я кому разговариваю;C'est Yana, c'est qui;C'est Yana, à qui je parle
+Fluency;Grammar;Major;ну секс был конечно с другими мужчинами но это было не скажу тебе что я часто переходила от одного мужчины к другому;Bien sûr, j'ai eu des relations avec d'autres hommes, mais je ne peux pas dire que je les changer souvent;Bien sûr, j'ai eu des relations avec d'autres hommes, mais je ne peux pas dire que je les change souvent
+Fluency;Grammar;Major;ну секс был конечно с другими мужчинами но это было не скажу тебе что я часто переходила от одного мужчины к другому;Bien sûr,ₒj'ai eu d'autres hommes, mais je ne peux pas dire que je les changer souvent;Bien sûr, j'ai eu d'autres hommes, mais je ne peux pas dire que je les change souvent
+;;;майор пэйн;Major Payne;duplicate translation
+Accuracy;Mistranslation;Major;вчера я катался на лыжах;Hier, j'étais au ski.;hier, je faisais du ski.
+Accuracy;Mistranslation;Critical;мы должны какие-то деньги вам;nous vous devons de l'argent;vous nous devez de l'argent
+Accuracy;Over-translation;Minor;Влад;Vladimir;Vlad
+;Mistranslation;Major;Я очень Рада что открыла страничку и находишься у меня;Cela me fait plaisir que tu as ouvert la page et a pris la décision de la regarder.;Cela me fait plaisir que tu as ouvert la page et a pris la décision de me visiter.
+;;;С утра с самого на ногах проснулся и поехал;Dès le matin, je me suis debout, je me suis réveillé et je suis parti;

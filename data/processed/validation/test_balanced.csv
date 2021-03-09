@@ -1,0 +1,645 @@
+language_pair,source,target,accuracy,type,modelfront,baseline,custom
+en-ru,Why you like me too much,Почему ты меня слишком любишь?,True,test,0.8,0.8908747897687302,0.9427821552485578
+en-ru,This is my last year 's emoji,Это мой эмоджи за последний год,True,test,0.7,0.7236246924217796,0.9354513149324597
+en-ru,You can relax tomorrow,Завтра вы можете расслабиться,True,test,0.58,0.9703890521827453,0.9583498498641103
+en-ru,I sometimes have lasagna,Иногда я ем лазанью,True,test,0.24,0.5921632938532492,0.8652885923217002
+en-ru,For the drink,Для выпивки,True,test,0.81,0.9395353645265075,0.9355725333550606
+en-ru,You have one person blonde hair sorry,"У вас один человек со светлыми волосами, простите",True,test,0.69,0.8346630300603227,0.8734392190834286
+en-ru,What would happen,Что бы случилось,False,test,0.72,0.8828380687066931,0.935481307119495
+en-ru,I said you can drink a lot,"Я сказал, что ты умееешь пить ",False,test,0.71,0.8461495480445758,0.8345016123299875
+en-ru,Dress you so beautiful,"Платье, ты так красиво",False,test,0.51,0.942373571563414,0.9676569253709411
+en-ru,What can you produce yourself at one of the attractions,Что ты можешь произвести сам? На одной из достопримечательностей,False,test,0.88,0.7952295798044291,0.8717821507497292
+en-ru,How many time can I wear it,Сколько я могу это носить?,True,test,0.83,0.861302962088204,0.9268505554303101
+en-ru,You are we are,"Ты есть, мы есть",True,test,0.73,0.8454197754038645,0.925020532151374
+en-ru,How can I get here,Как я могу туда попасть?,True,test,0.77,0.87511237035333,0.9326000576849727
+en-ru,Irregular hours from 11 until eight at night,Нерегулярные часы с 11 до 8 вечера,False,test,0.64,0.8835273702149631,0.9260337682033826
+en-ru,Otherwise you can always go on YouTube,Иначе ты всегда можешь открыть YouTube,True,test,0.67,0.8921668703207042,0.9396944595932761
+en-ru,No such word as high mean,"Нет такого слова, как мне приятно",False,test,0.65,0.6384469385016398,0.8373338745256862
+en-ru,Hello how was everything,"Здравствуйте, как все прошло?",True,test,0.66,0.8183842365878964,0.9167571847533718
+en-ru,Is this the hotel MÃ©rida,Это отель?,False,test,0.01,0.685712463338547,0.7905303168524598
+en-ru,It is just for a holiday home really and we would come once or twice a year and maybe to retire to,"Это просто летний домик, мы бы приезжали сюда раз или два в год, наверное, чтобы уйти на пенсию",False,test,0.85,0.7988780905743209,0.7952183456209654
+en-ru,You are more beautiful,Ты прекраснее,True,test,0.28,0.8898738194234018,0.9461432796756442
+en-ru,I think I'm more comfortable to write than to speak,"Мне кажется, мне удобнее писать, чем говорить",True,test,0.95,0.9127805391240905,0.8915075122930474
+en-ru,She has so many shoes that I asked her because you need boots I think don't you,"У нее так много обуви, что я спросил ее, потому что тебе нужны ботинки, я думаю, ты не считаешь",False,test,0.92,0.915445759970809,0.861715523106231
+en-ru,I am going out this evening,Я выйду сегодня вечером,True,test,0.73,0.8963713451959029,0.9468098560325031
+en-ru,I am very surprise,Я очень удивлена,True,test,0.7,0.9435528733428376,0.9625777484965163
+en-ru,No phrase woman,Неразговорчивая женщина,False,test,0.59,0.8234562269275721,0.8548783042017551
+en-ru,Daddy is a poopsie,Папа – пупси,False,test,0.21,0.7681523363381949,0.9112666150467805
+en-ru,I've got it all right,"Я получила, все хорошо",False,test,0.81,0.8291397484136134,0.9480172914955651
+en-ru,Learning is your superpower,Знания – это твоя сверхспособность,False,test,0.85,0.8224927907674832,0.8690136219514817
+en-ru,What is your services,Что вы делаете,False,test,0.23,0.5509468816900673,0.7632701681212044
+en-ru,I'm sorry but we have attending in the bar at the moment,"Извините, но у нас сейчас в баре идет выступление",False,test,0.89,0.8614661976136819,0.8805386196895708
+en-ru,Do you accept credit card,Можно ли расплатиться картой?,True,test,0.78,0.5740383353697512,0.7146723278585925
+en-ru,The longest word is supercalifragilisticexpialidocious,Самым длинным словом является суперкалифрагилистскиэкспериментально,False,test,0.83,0.8841105304513589,0.8035561736167725
+en-ru,I have three black pens,У меня три черных пениса,False,test,0.88,0.8404624434829482,0.93345883397375
+en-ru,My name is gemma,Меня зовут Джемма,True,test,0.77,0.8953572760660543,0.9098884740525093
+en-ru,What is your favourite food,Какое твое любимое блюдо?,True,test,0.82,0.8719446378403781,0.9034121611320249
+en-ru,You mean to say water level,"Ты имеешь в виду, сказать уровень воды",False,test,0.58,0.923174571488206,0.9484976663579139
+en-ru,Would you mind to have a good slap on your face,Вы бы могли получить сильный удар по лицу?,False,test,0.83,0.7141253129142862,0.8209211500404145
+en-ru,We can't do anything we are just security but if you go outside today he will get booked out from here,"Мы не можем ничего сделать, мы просто охрана, но если ты выйдешь сегодня на улицу, его забронируют отсюда",False,test,0.93,0.8946330248860825,0.8672665770566765
+en-ru,These are books about everything we also don't know everything in English,"Это книги обо всем, чего мы тоже не знаем на английском.",False,test,0.99,0.9430102429778271,0.8964417269301346
+en-ru,I drive aVW,Я вожу aVW,False,test,0.53,0.8929722399823906,0.9668251420504954
+en-ru,I'm glad to see you soon,Буду рад тебя увидеть,True,test,0.76,0.8413461121570355,0.8394098337383107
+en-ru,Follow the orange guy,Следуй за оранжевым чуваком,True,test,0.68,0.8726052160050142,0.8344446271746206
+en-ru,I wish you health love and happiness,"Я желаю всем вам здоровья, любви и счастья",True,test,0.75,0.8810935808077489,0.871397500951002
+en-ru,Nobody say it was easy,"Никто не говорит, что это было легко",True,test,0.8,0.9629491775310646,0.9280152520268472
+en-ru,Are you doing this is what you need this was your plan to get me pregnant for me I have put to eat so wrong is evil evil incest mother and we need to talk,"Ты это делаешь? Это то, что тебе было нужно, это же был твой план – чтобы я забеременала от тебя. Меня принудили, это зло, этот инцест. Нам нужно поговорить",True,test,0.93,0.7306254347278426,0.8437027154426269
+en-ru,You are going you are my girlfriend and we going to have a long relationship together,"Ты станешь моей девушкой, и у нас будут длительные отношения вместе",True,test,0.71,0.8987017540616126,0.9172490566207503
+en-ru,I was thinking that in Mozambique since I'll be very tired I would be able to sleep well,"Я думал, что в Мозамбике, так как я буду очень уставшим и смогу отлично поспать",False,test,0.95,0.9188888606534048,0.8325596182194537
+en-ru,You love your,"Ты, люблю твой",False,test,0.74,0.9206647151484645,0.9475714076483075
+en-ru,Farming suicides are mostly concentrated on countries or in areas that have a lot of farming ground or in cities that depend on farming to eat and live,"Самоубийства на фермах в основном сосредоточены в странах или в районах с большим количеством сельскохозяйственных угодий или в городах, которые зависят от сельского хозяйства в плане еды и выживания",True,test,0.68,0.9075691025312718,0.8813351621902492
+en-ru,I will get the warmest part,У меня будет самая теплая часть,True,test,0.73,0.9265136455009129,0.8951890532516278
+en-ru,They just store what was available and they got maybe â‚¬200,"Они просто сохраняют то, что было доступно, и они получили, возможно, â‚¬200",True,test,0.99,0.901591298935607,0.8742350117794309
+en-ru,If you keep creating different email address every time with a new email address you can do one months free,"Если ты каждый раз создавать различные новые адреса электронной почты, ты сможешь получить один бесплатный месяц ",False,test,0.57,0.9246532069264404,0.8792509551261891
+en-ru,So I thought we were going to meet some of your family,"Поэтому я подумал, что мы планируем встретиться с кем-то из членов вашей семьи",True,test,0.98,0.8817484025558694,0.7961566012053858
+en-ru,In English it's called pancake,На английском это называется панкейк,True,test,0.96,0.735236911746271,0.9271224845927635
+en-ru,I can pay you 140,Я могу заплатить тебе 140,True,test,0.65,0.9716456544125212,0.9790179658199034
+en-ru,It's okay next time,В следующий раз я соглашусь,False,test,0.78,0.6109431915627557,0.8449148996686362
+en-ru,That man always come here with different people,Тот мужчина всегда приходит сюда с разными людьми,True,test,0.78,0.9354893673223198,0.9207226517492191
+en-ru,I dig holes and then fill them with concrete,Я рою ямы и заполняю их цементом,True,test,0.75,0.7852252803339966,0.8257189002264904
+en-ru,Transfer the money into your account,Отправь деньги на свой банковский аккаунт,False,test,0.72,0.8305265161433745,0.8146200414791944
+en-ru,It is important to see if you are interested in blue sky in your heart,"Вы заинтересованы в голубом небе в вашем сердце, и это важно для нас",False,test,0.91,0.79479814226048,0.8209563908601809
+en-ru,And I am really happy about that,"И я очень счастлив, что так",False,test,0.72,0.8518861107970821,0.9273839164897546
+en-ru,On Sunday in two days my mum is coming here to spend the day and evening with us,"В воскресенье, это через два дня, сюда приедет моя мама, она проведет с нами день и вечер",True,test,0.89,0.9222113115449492,0.8054381833532362
+en-ru,I thought this was good but now I'm thinking it's rubbish,"Ранее я полагал, что это здорово, но теперь мне кажется, что это ерунда",True,test,0.91,0.75711470136427,0.9110686666123473
+en-ru,Honey you have to understand that today because I used my bank account and my card many times to buy things they put a security check when I tried to put the Western Union through online so I had to then in turn contact my bank who gave me a four digit number to clear the money for you you have to be poor patient please in future,"Дорогая, ты должна понять, что из-за того, что я сегодня использовал свой банковский счет и карту много раз для покупки вещей, они поставили проверку безопасности. Когда я пытался зайти в Western Union через Интернет, мне пришлось связаться с моим банком, который дал мне четырехзначный номер...",False,test,0.42,0.8930889542641914,0.8434475319179353
+en-ru,Michael have you got lucky yet for some nice lovely Spanish kippers,"Майкл, тебе уже свезло на какие-нибудь хорошенькие милые испанские влагалища",True,test,0.85,0.8316789742253733,0.887436322837901
+en-ru,I will make sure someone walks you down the aisle,"Я позабочусь, чтобы кто-то проводил вас по проходу",False,test,0.72,0.7522122316170838,0.8582979133935607
+en-ru,Language and keyboard,Язык и клавиатура,True,test,0.74,0.9324234293993833,0.898826355734331
+en-ru,He has two brothers,У него есть два брата,True,test,0.95,0.9747522984236751,0.926676100875722
+en-ru,I ain't nothing but the blues,Я всего лишь блюз,False,test,0.9,0.6739879938920015,0.7864876199749964
+en-ru,I always see that symbol with one eye what is that mean,Я всегда вижу этот знак одним глазом. Что бы это значило?,False,test,0.99,0.8639064483047401,0.9143528110927099
+en-ru,Morgan shut up looking your match I finish getting change I'm hungry so go get me some food,"Морган заткнулся, глядя на твою спутницу. Я уже получил мелочь. Я проголодался, так что иди и принеси мне еды",False,test,0.7,0.7402351259722368,0.6706188038016094
+en-ru,I don't give money if you want me come,"Я не даю денег. Если ты желаешь, чтобы я пришла",False,test,0.84,0.9247918308343669,0.9013556968409726
+en-ru,If you can answer me honestly tell me when was the last time you had sex,"Если можешь, ответь мне честно, когда у тебя был последний секс",True,test,0.67,0.8626354550336752,0.9416487005135159
+en-ru,You don't need to know English to know music,"Мне не нужно знать английский для того, чтобы знать музыку",False,test,0.99,0.9102945307956278,0.8892263565341225
+en-ru,Do ballet and tap I have ballet and tap classes,Занимайтесь балетом и степом. У меня есть классы балета и степа,False,test,0.75,0.847682634483932,0.9416819418541471
+en-ru,So food is very delicious for this evening,"Что ж, еда очень восхитительна для сегодняшнего вечера",True,test,0.84,0.8750133952326283,0.9098742277636673
+en-ru,How many do you want some more,"Сколько, ты хочешь еще",True,test,0.63,0.7584250497278393,0.8341846948869818
+en-ru,You can take a picture for me,Может сфоткать меня?,False,test,0.79,0.5226054586702767,0.7562919859376631
+en-ru,I have to freeze the chicken because it turns bad really quick,"Мне необходимо заморозить курицу, потому что она быстро портится",True,test,0.63,0.9067385338625936,0.9061474485896421
+en-ru,I don't give money if you want me come,"Я не даю денег. Если ты хочешь, чтобы я пришла",False,test,0.85,0.9284487412732559,0.9017068553641772
+en-ru,My friends are really excited about their visit to cars are Healey,Мои друзья очень взбудоражены касательно их визита в автомобили Хили,False,test,0.9,0.8834343864665531,0.8258058775688935
+en-ru,There are two kinds of hamburgers in the fast food shop,В магазине фаст-фуда есть два вида гамбургеров,True,test,0.88,0.8944859425702149,0.9024749052871726
+en-ru,Comfortable saying anything,Комфортно молчать,False,test,0.22,0.695711358826128,0.7574359379381668
+en-ru,I am going for breakfast now my love and then I will come back,"Сейчас я иду завтракать, любовь моя, а потом я вернусь",True,test,0.89,0.9404626174970699,0.9458628527268647
+en-ru,Studying and I live there,"Учась, и я еще живу там",True,test,0.71,0.6697335321754276,0.806374439458521
+en-ru,What is the best place to take children to do activities in Antalya indoors,"Какое самое лучшее место в районе Анталии, чтобы отдохнуть с детьми?",False,test,0.76,0.741395924984289,0.7574426861802497
+en-ru,It's you know they think they're just robbing the tourists but if they know there's local people involved and talking the same language it could be a difference,"Это, ты понимаешь, – они думают, что они просто грабят туристов, но если бы они знали, что там вовлечены местные жители и говорят на том же языке, это может иметь значение",True,test,0.96,0.9063411061672417,0.8667022240706292
+en-ru,They are useless,Они не нужны,False,test,0.51,0.6567314319571412,0.7377738099225151
+en-ru,Did not understood ?-mark,Извините?,False,test,0.08,0.3280668045059202,0.5250622212913534
+en-ru,I will show you now what cereal we have so then you can choose which one you want for breakfast,"Я покажу тебе, какая у нас есть овсянка, чтобы ты могла выбрать, которую из них ты хочешь на завтрак",False,test,0.96,0.8721327199391834,0.8901116259214477
+en-ru,Have you had your hair straighteners before,Вы уже сделали выпрямление волос?,False,test,0.81,0.7389386399994601,0.8049738043239736
+en-ru,You can see this dust with your eye,Ты можешь видеть эту пыль своими глазами,True,test,0.71,0.952611299597448,0.9374712887292858
+en-ar,I'm an orphan No one can tell me what to do,أنا يتيمة لا أحد يستطيع أن يخبرني ما يجب القيام به.,True,test,1.0,0.7297062289926132,0.8503857245187629
+en-ar,It's getting cold in here,لقد أصبح الجو هنا قارسًا,True,test,0.98,0.8169779087897712,0.7951076244638271
+en-ar,It's the same tester and in the box is the same,إنه نفس المختبِر وفي المربع نفسه,False,test,1.0,0.643559517451645,0.8900671375106781
+en-ar,I only need them for reading but I forget they're on,أحتاجها للقراءة فحسب، ولكني نسيت أنها بصدد التشغيل,False,test,1.0,0.7499827362572292,0.8483475054748237
+en-ar,So I think he's not saying,بالتالي، أعتقد أنه لن يقصد,False,test,1.0,0.7705483566043935,0.8305821333542611
+en-ar,I can I can understand most French because my mum speaks French and I studied it at school but I've kind of forgotten how to speak,أستطيع أن أفهم معظم الفرنسية؛ لأن والدتي تتحدث الفرنسية ودرستها في المدرسة، ولكنني نسيت نوعًا ما كيف أتكلمها,True,test,1.0,0.9685446493399948,0.9369099349619421
+en-ar,My shit don't stink,أنا أرفع أنفي,False,test,0.93,0.5647972897381309,0.8476311920744641
+en-ar,They can't steer to avoid you,لا يمكنهن التوجيه لتجنبك,False,test,1.0,0.8797334805585806,0.8182253522957272
+en-ar,Everything without price tags seven drums,كل الطبول السبعة بدون علامات أسعار,False,test,0.0,0.7926477095192985,0.8567850574925227
+en-ar,I'm so happy that you are going there now take care and be safe,أنا سعيد جداً لأنك ذاهب إلى هناك، ولهذا انتبه لنفسك و كن بأمان.,True,test,1.0,0.8310867681915959,0.7797311300406244
+en-ar,Didn't wake me up I was already awake I'm just laying in my bed I want,لم توقظني، كنت قد استيقظت، أنا ممدّد في سريري، أريد,True,test,0.99,0.7947717684746075,0.8547995747107877
+en-ar,I'm English and Uncle Chris,أنا بريطاني والخال كريس,False,test,1.0,0.8702033805833559,0.8785161465438249
+en-ar,I'm going to eat less meat,سآكل كمية أقل من اللحوم,True,test,0.99,0.9264656557836349,0.9323466237045248
+en-ar,I can message you on the way sometimes because everywhere sometimes has a free Wi-Fi,يمكنني أن أراسلك عبر الهاتف أثناء تنقلي أحياناً لأنه يوجد في كل مكان خدمة الواي فاي المجانية أحياناً.,True,test,1.0,0.7028977749342907,0.851630150345835
+en-ar,When you go out I will be doing some work because I've been procrastinating,عندما تخرجين سوف أقوم ببعض العمل لأنني كنت أتباطأ,True,test,1.0,0.8827302240054419,0.9329814583301048
+en-ar,I am 12 years late years old,متأخر بـ 12 سنة,False,test,0.77,0.8094126264925721,0.8800462479524085
+en-ar,I need to put the boiler on it will take 20 minutes till you have a hot water it that okay,أحتاج إلى وضع المرجل عليها لمدة 20 دقيقة، حتى تحصل على الماء الساخن على ما يرام,True,test,1.0,0.8772262087323766,0.9091346704183558
+en-ar,I just don't want New Zealand customs to take them away because I can't explain what they are,كل ما في الأمر أنني لا أريد أن تصادرهم الجمارك النيوزيلندية لأني لا أستطيع توضيح ماهيتهم,True,test,1.0,0.84323233712794,0.8504334620831275
+en-ar,I'm thinking of selling my car,أخمن أن أقوم ببيع سيارتي,False,test,1.0,0.9079953123092016,0.9574513339275117
+en-ar,So we have to check just in case there is bleeding,لذا علينا أن التحقق فقط في عند ملاحظة نزيف,True,test,1.0,0.852022385147247,0.8622631304545165
+en-ar,When you speak in your language it's a music for me,عندما تتحدث بلغتك تكون موسيقى لي,True,test,1.0,0.8461992411912307,0.9212345184079545
+en-ar,I'm going to hold Sorrel for 330 if he couldn't do it then six months later the exclusivity expires then I will go for another agent,سأمسك بـ سوريل مقابل 330 إذا لم يتمكن من ذلك قم بذلك بعد ستة أشهر تنتهي صلاحية الحصرية ثم سأذهب إلى وكيل آخر,False,test,1.0,0.7285878394981555,0.7688532137378212
+en-ar,I've no bong so I will roll a small skin,ليس لدي بونغ لذا سأدحرج جلدًا صغيرًا,False,test,1.0,0.6907110299981769,0.8399861835991724
+en-ar,I'm trying to buy Mbappé and he's 84 million and his manager wants 157 and I'm paying him 120 million,أتفاوض على شراء صلاح، وقد بلغ سعره 84 مليون، ولكن المدير طالب 157 وأنا لا أوافق على 120 مليونًا.,False,test,1.0,0.5918274245712477,0.6397703398264749
+en-ko,Gonna do it right now we're also going to take a video I didn't really understand what you said maybe the phone got mixed up what you said,지금 할 거야 우리는 비디오를 가져 갈거야 네가 한 말이 무슨 말인지 정말로 몰랐어 아마도 전화가 네 말을 섞어놨을 거야,False,test,1.0,0.8329555476961216,0.8772142356916022
+en-ko,I need to get hand wash from Asda I need to get some more crisps and I need to get tinfoil and Sophie 's nuts,나는 Asda에게 손 세정제를 받아야해 나는 크리스피를 조금 더 받아야해 나는 은박지와 Sophie의 견과류를 얻어야해,False,test,0.87,0.7925077933546033,0.8181333762554854
+en-ko,But the truth is they don't have jobs because of themselves,사실 그들은 자신들 사정으로 직장이 없습니다,True,test,1.0,0.8046685756774529,0.7622671793997662
+en-ko,For the price we have agreed tomorrow if it's okay with you,그 가격으로 우리는 내일이라고 정했어 네가 상관없다면,False,test,1.0,0.6834760367832959,0.772830677608483
+en-ko,I have a dog a body and like 20,난 개가 있다 몸 그리고 마치 20,False,test,0.03,0.9089740205947401,0.8873003582566743
+en-ko,Know I'm a teacher,내가 선생님이라는 것을 명심해,True,test,0.99,0.7678040144000576,0.7812019968798127
+en-ko,I have to freeze the chicken because it turns bad really quick,매우 빨리 상하기 때문에 닭을 얼려야 해요,True,test,1.0,0.7211205337596096,0.8648022190219442
+en-ko,My parents will get here about 8:30 am and then we can all go out for the breakfast,우리 부모님은 여기에 오전 8:30분 정도 도착할 거고 우리는 모두 아침을 먹으러 나갈 수 있다,True,test,1.0,0.9113541226071048,0.9327122784514636
+en-ko,Yes I'm fine,"예, 저는 괜찮습니다",True,test,0.89,0.7674846507613304,0.8960240857256685
+en-ko,I've been around,저는 걸어다녔습니다,False,test,0.98,0.6881887210022996,0.9113595908265899
+en-ko,He's not bad we do but this form for Fanny,그는 그럭저럭이야 우리는 한다 그러나 패니를 위한 이 양식,False,test,1.0,0.6068607174743211,0.7344544246223856
+en-ko,Can you show me the way to terminal 21,21번 터미널로 가는 방법을 보여주실 수 있나요,False,test,1.0,0.8188834588732637,0.8438729211040523
+en-ko,"So it's 1,400,000 is that take away your old mobile so that will be just 1,000,000 correct to pay you","따라서 그건 1,400,000 그건 가져가는 겁니까 당신의 낡은 휴대폰 그러면 1,000,000 면 됩니다",False,test,1.0,0.8363353277970459,0.90942459489303
+en-ko,I don't speak English very well but this app don't understand anything,난 영어를 잘 말하지 못하지만 이 어플은 아무 것도 몰라,False,test,1.0,0.6787859670577463,0.8495012049361139
+en-ko,Can we block this car she will block 18 1500 Dyrham tomorrow morning is it okay,이 차를 막을 수 있을까요 그녀는 18 1500 디르함을 내일 지불할 거예요 괜찮나요,False,test,1.0,0.6878725880054943,0.8065998807310693
+en-ko,Yeah I'm all done for Christmas I just need to go back to the flat because I'm missing two presents so I need to go and find that but yeah I'm done for Christmas,그래 크리스마스 준비는 다 됐어 집으로 돌아가야 해 왜냐하면 선물 두 개를 두고 왔거든 가서 그걸 찾아야 해 하지만 그래 크리스마스 준비는 끝났어,True,test,1.0,0.8392075446825494,0.8795173857210199
+en-ko,And she's coming from far away it's like you it's like 50 how much is the taxi supposed to be,그리고 그녀는 먼 곳에서 오고 있어 마치 당신과 같이 50과 같이 택시는 얼마여야 하지,True,test,1.0,0.9206039203413866,0.8955856999251695
+en-ko,Abdominal binder for after you have a C-section to help with the healing process,제왕절개를 한 후 복대를 하는 것은 치유 과정을 도와줍니다,True,test,0.91,0.5784909235445607,0.7361697277859118
+en-ko,Don't shoot I can see you,쏘지 마 난 당신을 볼 수 있어,True,test,1.0,0.9104735083581075,0.9211380435396577
+en-ko,It's time we thought about buying a bigger house,더 큰 집을 구매하는 걸 고려해야 할 시기야,True,test,1.0,0.8630931488856087,0.8431248659724138
+en-ko,How are you my love I tried calling you earlier on two times but you didn't pick up I tried again I've been in bed I had a bad headache I didn't go to work today,어떻게 지내고 있어 자기 아까 두번 전화했는데 네가 안 받더라 난 또 전화했어 나는 침대에 있었어 두통이 심했거든 오늘 회사도 결근했어,True,test,1.0,0.7358341105902916,0.6044217981215891
+en-ko,Please let's just play with the slinky because that's better and spying is actually a bit rude isn't it,제발 용수철 장난감이나 가지고 놀아 왜냐하면 그게 더 좋잖아 그리고 스파이하는 건 사실 좀 건방져 안그래,False,test,1.0,0.6340996105145441,0.7696077671766504
+en-ko,You can dry the horse normally on Tuesday after the treatment no problem. Monday I have to start the treatment by 10:15 as I need to leave the stable no later than 11 to start work. Just let me know if that works for you,당신은 보통 화요일에 말을 건조합니다 치료 후에는 문제 없음. 월요일 저는 10:15 까지 치료를 시작해야 해요 마구간을 늦어도 11시 이전에는 출근하러 떠나야 하니까요 그게 당신에게도 맞는지 알려주세요,True,test,1.0,0.7014259532135646,0.8363903703085342
+en-ko,You're very lucky,너는 매우 운이 좋아,True,test,0.99,0.9479528314237902,0.9487416028124671
+en-ko,My vape of beer is 26 9 84,맥주와 함께 내 vape는 26 9 84입니다,False,test,0.99,0.9112264241427691,0.8915112613164271
+en-ko,Who come to watch carnival is a positive celebration of London's many cultures,누가 보러 오는가 축제는 런던이 가진 많은 문화 중에 긍정적인 기념이다,False,test,1.0,0.9000730734490919,0.8992654913395062
+en-ko,You know exactly what I'm saying,내 말 무슨 뜻인지 알지,True,test,1.0,0.8085599132419922,0.9314436089398712
+en-ko,Each night the Sun took the form of Jaguar and journey through the underworld sure the jag for such as Rosa done 20 end of the,매일 밤 태양은 표범 모양을 하고 지하 세계로 여행합니다 물론 로사(Rosa)가 그러했듯이 재그 20,False,test,1.0,0.7631241065118265,0.7255230012581722
+en-ko,In English it's called pancake,영어로 이건 팬케이크라고 부릅니다,True,test,1.0,0.8442473460808931,0.9374832856041002
+en-ko,I've got the same watch with you,난 너와 같은 볼거리가 있어,False,test,1.0,0.5298124921477962,0.8551709779602414
+en-ko,The charges on my credit card to take 1000 liras out as and seven 1770 Lira,내 신용 카드에서 1000 리라와 일곱 1770 리라를 인출하기로 한 명령,False,test,1.0,0.8536068094236914,0.871372257526914
+en-ko,Just because you've got a scan does not mean you will be able to return to work,당신이 복사본을 가지고 있기 때문에 일을 다시 할수 있다는 의미는 아니에요,False,test,1.0,0.6594816480558807,0.7581779946323981
+en-ko,Let's go outside,밖으로 나가자,True,test,0.99,0.8446514112769212,0.9271122372621927
+en-ko,Light it's mine is the spelling oh bugger no it's all,라이트는 내 것 은 철자법 오 제길 아니야,False,test,0.03,0.7366410074645229,0.8613596158200791
+en-ko,It's very easy to learn a language with this app,이 어플이 있다면 언어를 배우는 것은 굉장히 쉽다,True,test,1.0,0.8014530884029991,0.872459724241835
+en-ko,You know exactly what I'm saying,내가 하는 말이 뭔지 당신은 정확히 알고 있어요,True,test,0.99,0.9215204240851903,0.9396657170806999
+en-it,I don't wanna know anything I can get by,Non mi interessa sapere cosa potrei ottenere,False,test,0.99,0.802151729403371,0.7467522210464175
+en-it,I know I can't speak Spanish and you can't speak English,Lo so io non parlo spagnolo e tu non parli inglese,True,test,1.0,0.9107414754208026,0.9254356740069212
+en-it,It's down the aisle,Si trova alla fine del corridoio,True,test,0.77,0.6673060278352254,0.7230826369730683
+en-it,Defending World Cup champions filed away discrimination suit against the sports national governing body arguing that the parents receive about a quarter of the compensation the male counterparts me despite being more successful on the field and a draw on TV the page at the sports stars may not be the most urgent wage divide that by using their perch to fight for a lodger principal female athletes have the potential to shift the national debate these athletes are role models says Bobby Thomas in a senior fellow at the walk in school at the University of Pennsylvania a paved the way for women in the workplace to fight for what is there to women on the US hockey team and demanding the seventh of the contract of the counterparts on the men's,Difendendo le campionesse della Coppa del Mondo hanno fatto causa all'organo direttivo degli sport nazionali per discriminazione affermando che i genitori ricevono all'incirca un quarto del compenso delle controparti maschili nonostante abbiano riscosso più successo sul campo e un pareggio in TV la pagina delle star dello sport forse non è la cosa più urgente salario lo divide usando il loro prestigio per lottare per un ospite le principali atlete femminili hanno il potenziale di spostare il dibattito nazionale queste atlete sono dei modelli di comportamento dice Bobby Thomas in un membro anziano della strada nella scuola presso l'Università della Pennsylvania ha aperto la strada per le donne nel posto di lavoro per lottare per quello che c'è per le donne nella squadra di hockey degli Stati Uniti e domando il settimo del contratto delle controparti su quelli degli uomini,False,test,0.0,0.8690906300275258,0.7535686953548599
+en-it,Tomorrow we're going to study science,Domani studieremo scienze,True,test,0.98,0.9415289642871111,0.9603555773720944
+en-it,Does Corey miss a lot of work,Corey non riesce a fare parecchio lavoro,False,test,0.99,0.8371911542116597,0.7643178951883032
+en-it,How are you how's it been where do you live in France,Come stai come va in Francia,False,test,0.97,0.8572685951949355,0.895789646797009
+en-it,It's very funny because you are learning faster,È molto buffo perché stai imparando più in fretta,True,test,0.82,0.8015370850929715,0.908394863138152
+en-it,Is it busy because it's Sunday,È domenica quindi ha da fare,False,test,0.74,0.7967823437900377,0.8807285702074608
+en-it,If Berlin doesn't happen,Se Berlino non succede,False,test,0.99,0.9773515554362404,0.9428546363672266
+en-it,The pizza is a lot smaller than normal,La pizza è decisamente più piccola del solito,True,test,0.98,0.9673629980028098,0.9697103904432898
+en-it,Sorry I got it wrong I was trying to say 2 pint beers,Perdonami ho sbagliato intendevo 2 pinte di birra,True,test,0.65,0.9081105581174015,0.8884020712604364
+en-it,Who come to watch carnival is a positive celebration of London's many cultures,Chi viene a vedere il carnevale è una celebrazione positiva delle molte culture di Londra,True,test,1.0,0.9469806431610397,0.9401405933754252
+en-it,It's coming from the South high above Central Germany. Rahul spots the largest formation of allied aircraft he's ever seen,Proviene da sud alta sulla Germania centrale. Rahul avvista la più grande formazione di alleati aerei che abbia mai visto,False,test,1.0,0.912827765235096,0.8596937997651612
+jp-ko,んで,같아,False,test,0.92,0.8139152602477008,0.9307840307599871
+jp-ko,えー お願いします！,"그럼, 부탁드립니다!",True,test,1.0,0.9195265893688106,0.9196789236403915
+jp-ko,JRの方が 高いけど、 早く 着くらしい。,JR이 더 비싸지만 일찍 도착하나 봐.,True,test,1.0,0.8760615329500181,0.8591571895521217
+jp-ko,流石に もう 行き遅れると,과연 이미 가기 늦으면,False,test,0.98,0.8047069322079088,0.8977308911028676
+jp-ko,そうですね、 日差しが 強いです,"그렇네요, 햇볕이 강합니다",True,test,0.98,0.6936147896966282,0.8788608067598385
+jp-ko,私は 運動は 苦手なので あまり 休日は 運動しません。,저는 운동을 잘 못해서 자주 하진 않아요.,False,test,1.0,0.7269622979608856,0.8095241189670088
+en-fr,I don't want to date a receptionist ha ha ha,J’ai pas envie de sortir avec un réceptionniste ha ha ha,True,test,0.95,0.8035413753413898,0.8726821662956801
+en-fr,I've dreamed of using a c ring on Honey,Je rêve d’utiliser un cock ring avec Honey,False,test,1.0,0.906974664417621,0.8955884492089807
+en-fr,Why the rush?,Pourquoi la ruée ?,True,test,0.75,0.80417975018518,0.8913435550039215
+en-fr,Let's cum now?,On joue maintenant ?,False,test,0.83,0.7383118367276451,0.8956511828668634
+en-fr,Cool so it's just like real life.,"Cool, donc c’est comme la vraie vie.",True,test,0.99,0.8836675213354346,0.9585138071532362
+en-fr,But I hate roti,Mais je n’aime pas leur pain le rôti,False,test,0.1,0.8509135701006674,0.8811097209177006
+en-fr,"I'm pumped dude, let's go wreak some havoc on these pizza eating vermin","Je suis pompé mec, allons faire des ravages sur ces pizzas en mangeant vermine",False,test,0.93,0.8946132886008862,0.907090203002118
+en-fr,Yeah man same with me!,"Ouais, mec, c’est pareil pour moi !",True,test,0.78,0.667472024091073,0.7971803345228565
+en-fr,Sorry sucks to suck,"Désolé, ça craint à mort",True,test,0.72,0.7279720791478195,0.7946537427000266
+en-fr,She is a riot in the bedroom,C’est une tornade,False,test,0.1,0.28621915428064865,0.6174971419945101
+ko-en,너는 명품차에 대해 어떻게 생각해,What do you think abpit luxury cars,False,test,0.99,0.6738556550510869,0.7872761645591324
+ko-en,나냐,tears,False,test,0.26,0.2743827577762414,0.7113037053847471
+ko-en,아니야 인사는 쿨톤이야,"No, Inseo is a cool skin tone",False,test,0.99,0.5157481568655513,0.7990393502492599
+ko-en,요즘 영화 엄청 많이 개봉했더라 아 그렇구나,There’s a lot of good movies out there these days.,True,test,1.0,0.5275374153673691,0.7869370029107414
+ko-en,그래도 맨날 전교 1등 하니까!,But I always end up in 1st place at the school.,True,test,0.99,0.4054641153768548,0.6488622213913273
+ko-en,미리 준비해둬.,You should prepare early.,True,test,0.03,0.30289446499479433,0.6931349383485599
+ko-en,난 여자 친구만 바라보는 해바라기야.,You’re just a sunflower that only sees his girlfriend.,False,test,0.96,0.47823787837636134,0.5399273489256049
+ko-en,자기 사진도 맨 마지막에 대문짝 만하게 있었어.,They also put their own picture at the end.,False,test,1.0,0.6981994230176319,0.6972561147820993
+ko-en,그러면 몸도 많이 안 힘들 거 같고,With a job I won't be exhausted,False,test,0.08,0.2454097442606967,0.6218280138024044
+ko-en,애는 몇,Come on,False,test,0.95,0.3866672127430497,0.6216530593780321
+ko-en,아 너무 재밌겠다,"Ah, it must be interesting",True,test,0.1,0.4422188054594295,0.7663288713290188
+ko-en,5층에는 나만의 공간을 만들고,And the 5th floor will be for my use only.,True,test,0.99,0.69405368708647,0.7610587441971366
+ko-en,한 번 하면 계속하고 싶으니까,"Once you get surgery, you want more",False,test,0.85,0.31620808720277904,0.6202069360931475
+ko-en,노래에 맞춰서 타면 재미있지? ㅎㅎ,"It’s fun to ride with the music, huh? Haha.",True,test,1.0,0.6488486069284801,0.82087216280159
+ko-en,내가 먼저 취업하면 밥 살게,"I’ll get my job first, and I will treat you with a meal",False,test,0.99,0.678383017901655,0.7145628563759141
+ko-en,톡으로 하려니까,Message,False,test,0.73,0.2311568569680941,0.5870995605644729
+ko-en,그럼 숙소는 어디서 예약해?,How about lodging?,False,test,0.72,0.5055553934931774,0.6543812836756024
+ko-en,나 기말고사 1월 2일부터 시작이야 너는 언제부터 시작이야?,My final exams start from January 2nd. When do yours start?,True,test,1.0,0.7527646126468044,0.774303293991915
+ko-en,노래 좋은 거 있냐,Do you know any good songs?,True,test,0.8,0.6280565479520546,0.8131046862292375
+ko-en,근데 런던도,But in London,True,test,0.96,0.8165102293173514,0.9178354038772896
+ko-en,살때 일주일에,when you lived there we,False,test,0.68,0.26962519700399373,0.5898203517983562
+ko-en,옆에서 많이 갈구면서 해야 빨리 는다니깐,"If you're teaching from the side, he'll improve really fast",False,test,0.99,0.17265571754638648,0.5046090493426463
+ko-en,미진아 나... 너무 외로워,"Mijin, I... am so lonely these days.",True,test,0.93,0.7934855030780932,0.8391521508646993
+ko-en,저기 가고 싶었어,I wanted to go to Singapore.,False,test,0.0,0.4290189312165717,0.6673711498154731
+ko-en,이번 주말에도 상사가 부르면 일 있다고 안 나갈 거야,"If my boss calls me in again this weekend, I’m gonna say I have something and I can’t.",False,test,0.98,0.6218118345946873,0.8069882795531762
+ko-en,뭐 필요해?,what do you need?,True,test,0.94,0.9304422822949155,0.9170006213381412
+ko-en,어느 정도 눈치챘지만 도무지 무슨 일인지는 알 수가 없어.,I’ve noticed something suspicious but I can’t figure out what’s going on.,True,test,0.89,0.630357822301522,0.745097402126746
+ko-en,슬랙스 좋지. 나는 슬랙스는 철마다,Slacks are good. I buy slacks every,False,test,0.92,0.6096834174300019,0.7829730355242459
+ko-en,지금 피시방 가 있냐?,Are you in an Internet café?,True,test,0.92,0.5551181690618854,0.7239121708794856
+ko-en,솔빈 누나랑 결혼해야 되는디.,You have to marry your sister Solvin.,False,test,0.99,0.7891320075018735,0.779331984018163
+ko-en,코에 실리콘 넣으면 많이 아프지 않을까 난 우리 여보 아픈거 싫은데,Wouldn't it hurt if you have silicone inside your nose? I don't want you to be in pain,True,test,1.0,0.5264464569597767,0.7199179613710629
+ko-en,호동이가??,Hodong is dating??,False,test,0.16,0.48784008040539095,0.8304401703356272
+ko-en,저번에 너가 추천한 설렁탕 집 간 이후로 니 입맛을 못 믿겠어.,I can’t trust your taste since last time when we went to that ox bone soup place you recommended.,True,test,1.0,0.592425856933093,0.768975931769774
+ko-en,응응.. 키는 작으면 좀..별로..,Yea... If he’s short..not really..,True,test,1.0,0.6914354573949808,0.7460881440384779
+ko-en,너 몸에 자란 지방이 아까워,All the fat in your body is wasteful.,True,test,0.97,0.5919693965989843,0.6736800063583437
+ko-en,연예인 중에선 누가 가장 이상형에 가까워?,"Of all the celebrities, who is closest to your ideal type?",True,test,1.0,0.7816819122739304,0.7361227400262229
+ko-en,탕시 시험 담 주 화요일인가?,Is the tangsi exam next Tuesday?,False,test,0.96,0.8592142639772051,0.8599514826387726
+ko-en,나는 운이 좋게 가방은 안 걸렸었어 다행이야 ㅎㅎ,I'm lucky I didn't lose and have to carry the bag. What a relief haha,False,test,0.95,0.797650211688179,0.8476241938974893
+ko-en,교수님들 과제를 너무 많이 내주셔,They assign too much.,False,test,0.99,0.4005817637180013,0.7283052764754778
+ko-en,너?,You?,True,test,0.95,0.9821741402195366,0.9868311804774854
+ko-en,눈은 내릴 때 보는 건 좋지.,It’s good to see the outdoors when it snows.,True,test,1.0,0.8439748561195072,0.8858412383574081
+ko-en,부모가 부자면 뼈 안빠지지,"If your parents are rich, then not to the bone",False,test,0.98,0.707268363543225,0.7159834863018184
+ko-en,수고,Bye,True,test,0.15,0.6712052951572097,0.884135682654668
+ko-en,사실 나도 이미 이번 달은 적자야. 월급이 쥐꼬리라서.,"In fact, I’m already in the red this month. The salary is so small.",True,test,1.0,0.7722829763607395,0.7731895841133385
+ko-en,생각해 봐야지.,I should think about it.,True,test,0.07,0.7167819578751753,0.9586045335190181
+ko-en,근데 옆집 지은이 엄마가 그러던데 거기 한번 가봤는데 별로래요.,But Ji-eun mon next door says she went there once and  it was not good.,False,test,1.0,0.5262655410121437,0.6856396408735521
+ko-en,얼마예요? 더욱 알고 싶네요.,How much is it? I want to know the details.,True,test,1.0,0.6243151121726968,0.7929434382343397
+ko-en,사 먹자,Let’s eat out.,True,test,0.03,0.6821674505880476,0.8735171987697199
+ko-en,기말 공부 주로 어디서 해?,Where are you mainly studying for your finals?,True,test,0.93,0.8386206251537354,0.7934595537862386
+ko-en,야 우리 배그하러갈까,"Oi, shall we go play PUBG",False,test,0.82,0.41732870657439963,0.6863392086361499
+ko-en,그거 유튜브에서 봤는데 배그 대회에서 핵 쓴 사람 있다던데 알아?,"I saw on Youtube, but did you know there was someone who used hacks in a PUBG tournament?",False,test,1.0,0.4901139824069373,0.7800995340713741
+ko-en,그래 넌 집에서 이번 주말 잘 보내고,Okay well you enjoy this weekend at home,True,test,0.99,0.7755475693924079,0.8932288138939808
+ko-en,고마워!,Thanks!,True,test,0.93,0.9516113278141682,0.96944146049954
+ko-en,잉잉이 ... 안 볼래...,Ying Ying... I don’t want to see him...,False,test,1.0,0.4625117008894317,0.7131119843280822
+ko-en,그거 하나 막겠다고,We were too busy to get one,False,test,0.24,0.11558780835917289,0.6041983563281765
+ko-en,내가 김고은이 될 수 없듯이 남편도 공유가 될 수 없지. 하하하,I can’t become Go-eun Kim and Gong Yoo can’t be my husband either. Hahaha.,False,test,1.0,0.7933880551699364,0.836315639775838
+ko-zh,아니공부열심히해서괜찮을거같아,不过我好好学了应该会没事。,True,test,0.89,0.4931559254712348,0.746861442594204
+ko-zh,어머나이렇게모른다야.다까먹었네.,要吃红参再出发，它是力量的源泉！,False,test,0.01,0.11540181149288087,0.5575762513865139
+ko-zh,배린이야,龌龊了，,False,test,0.46,0.6407856882974027,0.7001768539295514
+ko-zh,근데 아저씨 한식 좋아한다 하지 않으셨어여? 웬 양식이에요?,不过大叔不是说喜欢韩餐吗？怎么吃西餐呢？,True,test,1.0,0.6297884657169749,0.7971838336113439
+ko-zh,이메일은,电子邮箱呢,True,test,0.53,0.8789793312560942,0.9427476642334667
+ko-zh,그래. 그럼 내일 오후에 만나 어디서 만날까?,好的，那咱们明天下午在哪儿碰面呢？,True,test,1.0,0.893508409063557,0.8162453680816149
+ko-zh,오분식도좋겠네,哦。面食应该也可以。,False,test,0.04,0.7812604016115234,0.9347155066105279
+ko-zh,헤어지고싶으면헤어져.세상에는여자들많아.,这世上一半的人都是女人啊！,False,test,0.78,0.5475391418517818,0.5282004037948114
+ko-zh,야!내이상형은왜안물어보냐?,我跟她熟悉，她的理想型就是你。怎么样？要见一次面吗？,False,test,0.05,0.23342118452176253,0.6898300492721643
+ko-zh,좋은것같아,感觉很好。,True,test,0.0,0.7586998305080427,0.9322026612067558
+ko-zh,나이는못속이나봐,看来年龄是骗不了人的。,True,test,0.02,0.6539241216047981,0.8440511246820201
+ko-zh,다 추억이다 진짜. 지금은 우리 다 현실적이야.,真的都是回忆啊。现在咱们都变得现实了。,True,test,1.0,0.9158474168701316,0.9354533144115957
+ko-zh,source,target,False,test,0.94,0.3342439974471174,0.5107484500287676
+ko-zh,할필요없을것같은데?!,但是你好像一直维持着体重啊，感觉不必减肥啊？！,False,test,0.0,0.17097366914495327,0.6114524666324419
+ko-zh,여자친구랑사이가안좋아,这次又是什么事啊？,False,test,0.0,0.0923812557186492,0.42223450791068906
+ko-zh,놀다가가는거지,浪费时间，浪费钱，我都舍不得啊！,False,test,0.0,0.12367041922123863,0.69204372261026
+ko-zh,썸을 너무 오래 타서 그런가?,觉得暧昧太久了吗？,False,test,0.99,0.7250753681226526,0.8957554057168102
+ko-zh,신라호텔음식이그렇게먹고싶니?너확신이야?그비싼곳을?,那么想吃新罗酒店的菜品吗？你确定？那么贵的地方？,True,test,1.0,0.7206754100417,0.7949474161980801
+ko-zh,엄마엄마거리면서하루종일보채는데어휴나죽겠어,天天叫妈妈妈妈的，我快要死了。,True,test,0.96,0.7143028220031649,0.7444295760954271
+ko-zh,그래서무서워,所以我害怕仓鼠。,False,test,0.0,0.6102636994581397,0.8095628588752626
+ko-zh,너는 내가 추천하는,我推荐你,False,test,1.0,0.9667954623255277,0.9663680111330994
+ko-zh,하는일항상잘되고여자친구도사귀고좀그리고병신년때처럼아프지말고!,工作顺利，桃花朵朵开，而且不要再像丙申年一样生病啦！,True,test,0.98,0.5398774102084746,0.7721783475404655
+ko-zh,봄에는 겨울이 끝나서 뭔가 따뜻한 느낌이 좋아,冬天过完就是春天，我习惯天气变暖的感觉,False,test,1.0,0.9185247966782657,0.9410283621116702
+ko-zh,아큰일날뻔했다너네도비행기타고가?,哦，幸好你告诉了我。你们也坐飞机出发吗？,False,test,1.0,0.7541113791556765,0.795405796789936
+ko-zh,과소비 아닌가요,不是过度消费吗？,True,test,0.13,0.6563535643301536,0.8285499127477292
+ko-zh,너영화보는거,你不是很喜欢,False,test,0.01,0.46819751319429037,0.8979630806174987
+ko-zh,내가보기에너요즘운동도잘안하고밥먹고바로누워서자고이런생활이너무잦은거같아.,我看你最近不怎么运动，吃完饭就躺下睡觉，这样的生活太频繁了。,True,test,0.99,0.7014549702519187,0.808131981618788
+ko-zh,크으감성에취한다감자전좋지ㅋㅋ,啊，情感要涌上来了，土豆饼好啊，哈哈。,True,test,0.0,0.1642795147572896,0.5768084913879932
+ko-zh,"아 네, 그럼 우리 거기서 만나요.",嗯，好，那我们就在那见吧。,True,test,0.98,0.7775274242401069,0.9009518020555647
+ko-zh,사실너한테도쌓인게많아.,其实你也积攒了许多。,False,test,0.99,0.8651511852678205,0.8964939633225542
+ko-zh,"아근데유럽진짜좋아,돌아가기싫어져.",但是欧洲真的很好，我不想回去了。,True,test,1.0,0.6682761602349345,0.8401581388048416
+ko-zh,드라마가 솔직히 나를 배려놨어,说实话，电视剧耽误了我,False,test,0.99,0.566512701859777,0.8686067279473693
+ko-zh,너는금연말고또있어?,你除了戒烟之外还有吗？,True,test,0.98,0.59504056228794,0.8454832516129547
+ko-zh,힘들땐그렇지.ㅋ.증명을못하겠어.,因为很累啊，咔。不会做证明题啊！,False,test,0.98,0.33211291918799607,0.7394301284515383
+ko-zh,게네가엑소일수도있어.지난달부터갑자기아르바이트하길래,或许他们就是EXO呢，她从上个月开始突然打工了。,True,test,0.08,0.5446567043900157,0.7778793624260878
+ko-zh,오늘전시하는작품주제가인물화래,今天展示的作品主题是人物画。,True,test,0.99,0.7151922470937677,0.8820954641315937
+ko-zh,나 고등학교 때 국어공부도 어려웠는데,我高中的时候觉得学韩语就很难了,True,test,1.0,0.8196432471143777,0.8794399059045115
+ko-zh,알게 된 애인데,认识的。,False,test,0.32,0.9093362636626141,0.9365115387441567
+ko-zh,일단오늘가서아버지랑화해꼭하고..,今天一定要跟爸爸和好...,True,test,1.0,0.8527767106665656,0.9095375654641962
+ko-zh,응응 충분하지 그 정도면 뭐,嗯嗯，挺好的,False,test,0.7,0.7088305844988234,0.8513297286056978
+ko-zh,우리어머님엄청나게정정하셔,啊！我有一个合适的人选呢。她真的不错哦，你想不想要认识她？我们学科有个16年级的朴秀珍，知道吧？,False,test,0.0,0.1729460641467596,0.36899387709501674
+ko-zh,그럼거기서만나,那在大排档见。,False,test,0.0,0.27544475788442385,0.7262380649840714
+ko-zh,너네집가난했구나맞아딱지치기재밌었지그리고그거알아뻑치기,你们家以前很穷啊，对啊，拍洋画很好玩还有知道那个吧？翻硬币。,False,test,0.0,0.0,0.24224339559544728
+ko-zh,장난이야,开玩笑的,True,test,0.98,0.9486236889036326,0.9533246589263498
+ko-zh,그리고요즘엔물도오염이심각하던데,还有最近水污染也很严重呢。,True,test,0.92,0.818311635253067,0.864005176651482
+ko-zh,아신대 연락 왔어,知道啊，已经联系过了,False,test,0.99,0.6695392237485545,0.9151068646617557
+ko-zh,그러다,要那样的话,True,test,0.04,0.7184399233095535,0.8965769417066851
+ko-zh,잉잉이 걔 원래 남자애들 사이에서도,阿英本来在男生里,True,test,0.99,0.7161146834709191,0.7327903581117119
+ko-zh,무슨종이야??,什么品种？？,True,test,0.98,0.7519910207538419,0.9111231524187944
+ko-zh,왠지그랬을것같아ㅋㅋ,感觉他应该吃完了，哈哈。,False,test,0.0,0.17493754930537783,0.6722298841151879
+ko-zh,그게 더 부럽다,我更羡慕呢,True,test,0.94,0.607283637871385,0.9119254434219886
+ko-zh,파티에서뭔배구냐,在派对上哪冒出来排球啊？,True,test,0.04,0.5975819614406293,0.781046537377013
+ko-zh,정신이맑아지고인생의목표가뚜렷해져서그래.,因为精神清醒了，人生的目标变得明确了。,True,test,1.0,0.8401708046258063,0.8431878495651879
+ko-zh,아아쉽다.내가보고있는원피스는기장이조금긴원피스야.,我看着的连衣裙是长度稍长的连衣裙。,False,test,1.0,0.4822744186105592,0.718583808917777
+ko-zh,자신이없어...,就该及时享乐啊！,False,test,0.03,0.12437980210600112,0.6403561872132308
+ko-zh,잔디밭에돗자리펴고,在草坪上铺上席子。,True,test,0.96,0.7848581619337677,0.8868794678986123
+ko-zh,고기를얼마나패서만들었는지엄청부드러워,不知道剁了几下肉，肉非常嫩。,True,test,0.92,0.781673336388101,0.81602042667885
+ko-zh,스무살무렵에,才20岁就。,False,test,0.0,0.4395233046870601,0.7134326507944677
+ko-zh,항상재밌는말해줘서고마워,谢谢你一直鼓励我！,False,test,0.0,0.025846530426042444,0.7511563237776557
+ko-zh,오도구라고,五道具。,False,test,0.22,0.43890299206856115,0.6717637555416811
+ru-en,Приложения-навигаторы – компасы XXI века.,Navigation applications - compasses of the 21st century.,True,test,0.0,0.9263336106374406,0.8637274989865138
+ru-en,(Нет голосов),(0 votes),True,test,0.61,0.7679751796829805,0.8273899649141394
+ru-en,Стандарт одноместный/двухместный.,Standard one-seater/two-seater.,True,test,0.85,0.7851734138464123,0.7907092702351037
+ru-en,"Миклухо-Маклая, д.","Miklouho-Maclay, bldg.",True,test,0.31,0.7888949958626857,0.9199616000031994
+ru-en,"* не понравился внешний вид, габариты, цвет, форма товара - при этом заплатив курьеру 40 грн за услуги курьерской доставки (г.","* I disliked the appearance, as well as the dimensions, color, and shape of the product, but had to pay the courier 40 UAH for delivery",False,test,0.95,0.7654504623903976,0.7069598369624712
+ru-en,"Миклухо-Маклая, д.","Miklouho-Maclay, bldg.",True,test,0.31,0.7888949958626857,0.9199616000031994
+ru-en,"Сторонние веб-сайты: вы можете авторизоваться на некоторых сайтах, используя идентификатор Wargaming OpenID.",The Wargaming OpenID identifier may be used to log in to some sites: third-party websites.,False,test,0.83,0.8518681366802069,0.7473988026119196
+ru-en,"И не забудьте, что писать надо по независимым источникам и показать энциклопедическую значимость.",It is necessary to write as per the independent sources and show encyclopedic importance .,False,test,1.0,0.8198127677068675,0.7865106139850568
+ru-en,Стюарт облокотился на его капот и продолжил слушать спор.,Stuart leaned against the hood of the car and listened to the argument.,False,test,0.99,0.7738185298357454,0.7780158268770982
+ru-en,Власовскому будет проведен ремонт ливневой канализации.,Storm sewers will be renovated in Vlasovskiy.,True,test,0.96,0.6524340320724766,0.6815127159374983
+ru-en,Как за день убрать синяк под глазом в домашних условиях,How to get rid of a black eye for a day in domestic conditions.,False,test,0.7,0.7255086853128109,0.7282367943150807
+ru-en,"Да уж, более глубокая интеграция Украины в международные рынки капитала вместе с достаточно высокими внутренними политическими рисками превращает валютный рынок Украины в «улицу с двусторонним движением».","Ukrainian exchange market turned into a two-way street thanks to country's deeper incorporation into worldwide capital markets, complemented by sufficiently high internal political risks.",True,test,0.99,0.9002189809860789,0.7978986474023517
+ru-en,"Как сообщал УНИАН, национальная валюта Украины по официальному курсу за сентябрь выросла к доллару США более чем на 4%, а с начала года - более чем на 12%.","As the UNIAN reported earlier, the national currency of Ukraine at the official exchange rate for September, rose by more than 4% against the US dollar, and by more than 12% since the beginning of the year.",True,test,1.0,0.9574753540752341,0.9175329826580172
+ru-en,Секс русских студентов обычно перерастает в групповуху,"Pornographic, untranslated.",False,test,0.0,0.20588651152884305,0.2799205806887306
+ru-en,Как мне это ?,Is it good for me?,False,test,0.08,0.5213065056618504,0.7306476662829331
+ru-en,Секс русских студентов обычно перерастает в групповуху,"Pornographic, untranslated.",False,test,0.0,0.20588651152884305,0.2799205806887306
+ru-en,Затем припаиваем следующий ряд резисторов.,After that we should weld the next line of resistors.,False,test,0.99,0.7033132354854619,0.8081029891713203
+ru-en,"Нередко приходится решать задачи, связанные с оценкой целесообразности освоения новых сегментов, вывода на рынок новых форматов недвижимости или новых услуг, определением емкости спроса и построением прогнозов, что требует комплексного применения всех маркетинговых методик, а также опыта и всего архива данных, накопленных Аналитическим Центром.","Frequently the need arises to find the solutions of such problems as appraisal of new segments of development convenience, launching new formats of real estate or new services, determination of demand capability and forecasting. Solving these kinds of issues requires the integrated application of marketing techniques and the experience of the entire collection of data accumulated by Analytical Center.",False,test,0.95,0.870249901827033,0.788288150936681
+ru-en,Наши продукты и услуги могут также использовать или предлагать продукты или услуги третьих лиц.,Products or services of third parties may be used or offered by our products and services.,True,test,0.99,0.9192294877898732,0.9072261675833446
+ru-en,"При неуплате клиентом абонентной платы за пользование пакетом услуг по ведению реестра владельцев акций в течение 3 (трех) месяцев данная абонентная плата взимается в размере, определенном п.п.  7.4.1 раздела  7 настоящего Сборника вознаграждений.","Not paying the subscription fee for using the service package for maintaining the shareholders register within 3 (three) months, will lead to charging the subscription fee in the amount determined by the Clause  7.4.1 of Chapter 7 of this Compendium.",False,test,0.99,0.8339397187034555,0.7655725683459456
+ru-en,"Также в каталог включена литература для будущих мам и родителей, направленная на правильное воспитание детей.","Besides, the catalog describes literature for mothers-to-be and parents. The purpose of this literature is to ensure children’s proper upbringing.",False,test,1.0,0.8261558687954962,0.8303152028896474
+ru-en,Начать анкетирование,Start the surveying,True,test,0.65,0.9450970614426168,0.8989283291702512
+ru-en,"То же относится и к керамическим моделям, которые являются самыми дорогими.","The very same applies to ceramic models, which are counted the most expensive.",False,test,1.0,0.9362199623082474,0.9199728470733368
+ru-en,"Ранее сообщалось, что Германия предоставит 24,5 млн евро на модернизацию подстанций Укрэнерго и интеграцию энергетической системы Украины в ENTSO-E.",Earlier it was reported that Germany would provide 24.5 million Euros for the modernization of Ukrenergo substations and the integration of the Ukrainian energy system in ENTSO-E.,True,test,1.0,0.9617791565047987,0.8868394783158986
+ru-en,"Курсив. mp4, 01:53, 10 Мб.","Italics. mp4, 01:53, with 10 Mb property.",True,test,0.83,0.6942559252707882,0.8121824264779023
+ru-en,Мы используем уникальную технологию мотивации желания пациента на лечение.,We use a unique technology to motivate the patient’s desire for treatment.,True,test,0.98,0.9786953262589666,0.9051192164441164
+ru-en,"В последние недели мы активно тестировали обновленный сайт и сегодня, наконец, рады представить изменения всей аудитории.","Over the past weeks we have been eagerly checking the new website, and today we are finally happy to go live with the changes to the  audience.",True,test,1.0,0.8838492008893398,0.7984270097639565
+ru-en,"Главным оружием фалангита было копьё, о длине которого сегодня идут споры.",Today there are debates about the length of the spear which was the main weapon of the phalangite.,False,test,0.95,0.8615639392165588,0.8174290597299403
+ru-en,Современные хозяйки больше не хотят часами простаивать на кухне над луком и салатом.,Nowadays housewives don't want to stay for hours in the kitchen with onions and salads.,True,test,0.98,0.822835532505937,0.7460176623989447
+ru-en,"И если погашать кредитный лимит в последний расчетный день, в системе может возникнуть долг, а банк начислит дополнительную комиссию.","The bank can charge you an additional fee if you repay your credit limit on the last settlement day, which may lead to a debt in the system.",True,test,0.88,0.8197833982348491,0.6580600753503711
+ru-en,Можно использовать специальные заглушки для удилища.,Special plugs can be used for the rod.,True,test,0.8,0.835694368439718,0.8150839206386737
+ru-en,"Современный зритель чутко реагирует на изменения отечественного рынка кинопоказа, порой не просто принимая или отрицая те или иные нововведения, но выступая в качестве законодателя и двигателя процесса.","The modern spectator reacts with sensitivity to changes in the national film exhibition market, not only receiving or refusing certain innovations, but as a legislator and process engine.",True,test,1.0,0.8808353056708199,0.7802424968295756
+ru-en,"Курсив. mp4, 01:53, 10 Мб.","Italics. mp4, 01:53, with 10 Mb property.",False,test,0.83,0.6942559252707882,0.8121824264779023
+ru-en,3) устанавливают местные сборы и порядок их взимания;,3) establish local taxes and the way of their collection;,True,test,0.75,0.7883846131779514,0.8260698088148035
+ru-en,"А через несколько месяцев он точно так же рыдал на суде, когда сторона обвинения показывала запись игры Чарльза.","And a few months later, he wept just in the same way in court, when the prosecution showed a recording of Charle's game.",False,test,1.0,0.8868839484329929,0.8834033734212237
+ru-en,Уже используют HeadHunter API,Using HeadHunter API,False,test,0.9,0.9231294012402419,0.8820492261765804
+ru-en,"О том, удобно ли ей пользоваться, а также если у вас есть другие вопросы и предложения, пишите на support@lentainform.com .","If you wonder whether it is convenient to use, and  also if you have other queries and ideas, please send an email to: support@lentainform.com.",True,test,0.99,0.8035409641687815,0.8565548674570276
+ru-en,"Некоторые данные файлов cookie могут предоставляться третьим сторонам, которые имеют разрешение со стороны веб-ресурса.",Don’t forget that some cookie data may be provided to third parties that have permission from the website.,False,test,1.0,0.8304348833906773,0.7926520141503137
+ru-en,"Таково наследие, оставленное им более оседлыми и менее воинственными предками, занимавшимися земледелием.","That is the heritage of their less martial and more settled predecessors, who were strongly engaged in agriculture.",False,test,1.0,0.870676346560739,0.7961970906578832
+ru-en,"Показателен пример с созданием фракции сторонников президента Медведева в Курганской городской Думе (2009 год), эта попытка встретила резкое противодействие (по слухам, которые непосредственные участники событий подтверждают только в частных разговорах) руководства местного отделения Единой России и правительства области.","It is a prime example for supporters of President Medvedev in the Kurgan City Duma (2009). This attempt was sharply opposed (according to rumors, some direct participants confirm only in private conversations) by local United Russia party branch and regional authority.",False,test,1.0,0.8909065087985101,0.7082927397412973
+ru-en,/Новый золотой декор в Каминном зале,/New golden decor in the fireplace room,True,test,0.71,0.8613779717197388,0.8750038115071024
+ru-en,Более подробно со всеми нюансами можно ознакомиться и посмотреть в статье «Обращение в суд».,All the nuances can be found in more detail in the article Going to Court.,True,test,1.0,0.8454159573725021,0.650774973119502
+ru-en,"Но, в основном, для специфических применений — например, в терминальных или встроенных решениях.","However, basically for specific uses, e.g. in terminal or embedded installations.",True,test,1.0,0.7409359990524821,0.7558593486396794
+ru-en,"Ощадбанк, Проминвестбанк, ОТП Банк, Райффайзен Банк Аваль и т.д. предлагают 15% годовых и меньше.","Oschadbank, Prominvestbank, OTP Bank, Raiffeisen Bank Aval, etc. have the rate of 15 per cent in a year, or even less.",False,test,0.99,0.9035527684938225,0.8216454613573165
+ru-en,"Встраиваемая кухонная техника разрешает максимально рационально организовать пространство на Вашей кухне и превратить её из склада различных электроприборов в стильный, гармоничный и единый ансамбль.","Fitted kitchen appliances enable you to free space in your kitchen as logically as possible and turn it from a storage unit of different electrical devices into a classy, coordinated and connected ensemble.",False,test,0.87,0.8003308221382351,0.6493016069313944
+ru-en,Настоящий ресурс содержит материалы 18+,This resource is suitable for users over the age of 18,False,test,0.06,0.524908142754401,0.6313805253731402
+ru-en,"Правда, выбрать такую технику не всегда просто, ведь многообразие товара (хлебопечки, холодильники, посудомоечные машины ) в интернет-магазинах Казахстана может заставить растеряться.","However, it is not always easy to choose such a technical equipment, because the variety of goods (bakeries, refrigerators, dishwashers) in online stores in Kazakhstan can make you confused..",False,test,0.76,0.8810498790333857,0.8509850683896842
+ru-en,"В «Исповеди» Толстой пишет, чем с ним произошло то, что происходило с пут­ником в одной восточной притче, когда он бежал от дикого зверя по пустыне, прыгнул в колодец, повис на ветвях кустарника, который рос через стены этого колодца, и увидел, что внизу находится огнедышащий дракон, который его поглотит, если он упадет туда.","Tolstoy describes fantastic adventures in this “Confession” that happened also to the traveler in one eastern parable — the boy ran away from a wild animal in the desert, hid in a well, hung on the branches of a bush that grew through the walls of the well, and saw that there was a fire-breathing dragon below, which would devour him if he fell.",False,test,0.85,0.8634258462646323,0.7873726394274292
+ru-en,"Иной раз счета пытаются разделить, чтобы получить большее количество жилых помещений при переселении из сносимого или аварийного дома.",Sometimes invoices are split to get more housing when moving out of a demolished or emergency house.,False,test,0.99,0.7890924174535928,0.6267092422423959
+ru-en,Белорусский поезд теперь «тормозит» на Новой Баварии.,The Belorussian train is now braking at New Bavaria.,True,test,1.0,0.929256636709536,0.9118594606105108
+ru-en,"проведения работ по монтажу, пусконаладке, ремонту и техническому обслуживанию оборудования лицами, не имеющими соответствующих разрешений на проведение данных работ","installation, commissioning, repair and maintenance of equipment is carried out by persons who do not have the relevant permissions for such works",True,test,0.95,0.8548847338901525,0.6212549130951386
+ru-en,Такими композициями из шаров все чаще украшаются помещения и здания.,Balloon compositions are being used more frequently to decorate interiors and buildings.,False,test,0.99,0.8015396108675651,0.8061872382244424
+ru-en,Их приглашают клубы мирового уровня.,World-class clubs ask them to come along.,False,test,1.0,0.7881956499949855,0.838407594821549
+ru-en,"Да уж, более глубокая интеграция Украины в международные рынки капитала вместе с достаточно высокими внутренними политическими рисками превращает валютный рынок Украины в «улицу с двусторонним движением».","Ukrainian exchange market turned into a two-way street thanks to country's deeper incorporation into worldwide capital markets, complemented by sufficiently high internal political risks.",False,test,0.99,0.9002189809860789,0.7978986474023517
+ru-en,"А через несколько месяцев он точно так же рыдал на суде, когда сторона обвинения показывала запись игры Чарльза.","And a few months later, he wept just in the same way in court, when the prosecution showed a recording of Charle's game.",True,test,1.0,0.8868839484329929,0.8834033734212237
+ru-en,"«Поддержание контактов со всеми, в том числе и с Турцией, четкое представление о собственных интересах и, следовательно, последовательная политика приносят свои плоды».","Maintaining contacts with everyone, including Turkey, a clear idea of their own interests and, therefore, consistent policy are bearing fruit.",True,test,1.0,0.8857268499744151,0.804672882714053
+ru-en,Главный офисс находится в Калифорнии.,Headquarter is in California.,True,test,0.16,0.8962425894305746,0.846276544960038
+ru-en,"Небольшие лампы весом 3-5 кг способны «обработать» воздух в помещении площадью 6-10 кв. м, тогда как объемные светильники рекомендуется использовать в комнатах от 15 кв. м и выше.","Small lamps weighing 3-5 kg are able to process the air in a room of 6-10 square meters, but volumetric lamps are suggested for use in rooms of 15 square meters and above.",True,test,0.92,0.900501280351119,0.7548833528865728
+ru-en,"Но, в основном, для специфических применений — например, в терминальных или встроенных решениях.","However, basically for specific uses, e.g. in terminal or embedded installations.",False,test,1.0,0.7409359990524821,0.7558593486396794
+ru-en,Харьковчане просят больше автобусов.,Kharkov residents request more buses.,True,test,0.99,0.9141001682408176,0.909629541504438
+ru-en,Как за день убрать синяк под глазом в домашних условиях,How to remove a black eye at home in a day,True,test,0.62,0.8234490607763997,0.7310840526042965
+ru-en,Срочный ремонт моноблоков город Лосино-Петровский,"Rush repair of mono-blocks, Losino-Petrovsky",True,test,0.92,0.7920522728435991,0.8040895346762165
+ru-en,"Когда вы установили Python, возникает вопрос – как начать изучать этот язык?",I didn't use machine translation here.,False,test,0.0,0.1580408808806301,0.25945991069326446
+ru-en,"Что же, значит, должны властвовать и стоять во главе всего люди порядочные.","What, then decent people must rule and stand at the head of all.",False,test,0.96,0.8401570597129018,0.8648444580186863
+ru-en,Дорожные чемоданы,Travel cases,True,test,0.78,0.5792190514948389,0.7545616866806197
+ru-en,Учиться на них будет весьма непросто.,It will be really challenging to study in this area of expertise.,False,test,0.83,0.5509908184202068,0.6678575231152282
+ru-en,Входит в список Всемирного наследия ЮНЕСКО и является частью Эчмиадзинского монастыря.,Is included into the World Heritage List of UNESCO and is a part of Etchmindizer monastery.,True,test,1.0,0.9524386071019803,0.9434004941712684
+ru-en,"Ибо кто будет покупать автомобиль, который тут же окажется вне закона, не успей владелец зарегистрировать его в тот же день.",Who needs a car that will immediately be outlawed the moment the owner fails to register it?,False,test,0.99,0.7411711897844048,0.5815300114320219
+ru-en,"На хоккей предлагается порядка 150 вариантов, на баскетбол – 100, на теннис – 50.",Hockey offers about 150 options; basketball – 100; tennis - 50.,False,test,1.0,0.9583009299336691,0.8750695443836878
+ru-en,"Чтобы начать работать в OZON, не нужен собственный автомобиль, у нас есть и пешие курьеры.","Work in OZON does not require a car, since we employ on-foot couriers.",False,test,0.98,0.8465052710896616,0.7794559517245756
+ru-en,"Сверхранний сорт, который при правильном уходе дает урожай молодого картофеля 400 ц/га.","An extra-early sort, which with good care gives a yield of 400 c/ha of fresh potatoes.",False,test,0.99,0.784897223331552,0.7620057475027755
+ru-en,"Каждый кабель имеет специальный экран, изготовленный в виде оплетки (чаще из медной луженой проволоки).",Each cable is provided with a special screen manufactured in the braided form (more frequently made of tinned copper wire).,True,test,0.99,0.9249540090588521,0.8468476461881678
+ru-en,"Почему никто не верит в изнасиловнии шлюшки, что негр делал в новогоднюю ночь в ее квартире, кто готов защитить проститутку Уфы?",Why nobody believes that the whore has been raped that the Negro convinced during the New Year night in her flat? Who is ready to defend her?,False,test,0.73,0.8367575433267812,0.6563387737494382
+ru-en,"“Возможность оформить займ онлайн, не выходя из дома, делает этот способ кредитования еще более привлекательным, поэтому доля целевых займов, которые оформляются онлайн, определенно будет расти с отметки в 15% от общего объема выдач”, говорит эксперт.","“The possibility to issue a loan on the Internet without leaving the house makes this lending method  even more attractive, so the share of targeted loans, which are issued on line, will definitely grow from the mark of 15% of the total volume of issues”, says an expert.",False,test,0.94,0.9123342993662442,0.7723757961051145
+ru-en,Есть балкон.,There's a balcony.,True,test,0.2,0.9554614306399939,0.9603580767210143
+ru-en,"В ссылке должны быть указаны автор, название издания — «Русская Германия», номер выпуска и дата публикации.","The author must be indicated in the link, the title of the publication Russian Germany, the issue number and publication date.",False,test,1.0,0.9196656244493453,0.8324116567634126
+ru-en,Мы используем уникальную технологию мотивации желания пациента на лечение.,We use a unique technology to motivate the patient’s desire for treatment.,True,test,0.98,0.9786953262589666,0.9051192164441164
+ru-en,многофункциональность,I didn't use machine translation here.,False,test,0.0,0.10133901810791685,0.44293761475135707
+ru-en,Авиакомпания «АТРАН» получила второй Боинг 737-800BCF,ATRAN Airlines now has another Boeing 737-800BCF,False,test,1.0,0.7812218688642354,0.7054482307358931
+ru-en,Просим учитывать данную информацию при размещении заказа.,Please consider this information when placing your order.,True,test,0.91,0.7820849201689657,0.8325341248604734
+ru-en,В четырех муниципалитетах Самарской области запущен пилотный проект по поставке продовольствия в учреждения образования и социальной сферы через единый специализированный центр.,A pilot project was launched in four municipalities of the Samara region to supply food to educational and social institutions through a single specialized center.,True,test,1.0,0.9562843632459471,0.8446279744126657
+ru-en,"Но при этом он просчитывает каждый шаг, планирует каждый день.","But along with this, he works out every step in advance and has strict planning for every day.",False,test,1.0,0.8521348114861332,0.8444815125659768
+ru-en,скачать бесплатно азино777:,download asino777 for free:,True,test,0.72,0.9024388431591116,0.886838478576331
+ru-en,Авиакомпания «АТРАН» получила второй Боинг 737-800BCF,ATRAN Airlines now has another Boeing 737-800BCF,True,test,1.0,0.7812218688642354,0.7054482307358931
+ru-en,Как купить книги и диски?,How can one purchase books and CDs?,True,test,0.95,0.9463214159921165,0.9198123888726983
+ru-en,Лавины разобрались с Вашингтоном 6:3 и взяли 5 побед в 5-ти матчах.,The Avalanches defeated Washington with the result of 6 points to 3 points and took 5 wins during 5 games.,True,test,1.0,0.8548786250399727,0.7804676881672323
+ru-en,На что обратить внимание при выборе диктофона?,What feature should you review when choosing a voice recorder?,False,test,0.96,0.6335892865687537,0.7546099241147681
+ru-en,"Редакция регулярно получает заявки от небогатых приходов, воскресных школ и библиотек, больниц, реабилитационных православных центров и мест лишения свободы.","The editorial regularly receives requests from poorer parishes, Sunday schools, libraries, hospitals, Orthodox rehabilitation centers and jails.",False,test,1.0,0.9242869108714279,0.7441601462818932
+ru-en,Это тоже без проблем.,"No trouble here, too.",True,test,0.92,0.6957989973306307,0.8447511923144018
+ru-en,"Ибо кто будет покупать автомобиль, который тут же окажется вне закона, не успей владелец зарегистрировать его в тот же день.",Who needs a car that will immediately be outlawed the moment the owner fails to register it?,True,test,0.99,0.7411711897844048,0.5815300114320219
+ru-en,Как за день убрать синяк под глазом в домашних условиях,How to remove a black eye at home in a day,True,test,0.62,0.8234490607763997,0.7310840526042965
+ru-en,"В интернет-магазине «Кормушка» виноделы могут приобрести винные дрожжи таких известных брендов, как Alcotec, BrewMasters, Gervin.","Wine yeast from such well-known brands as Alcotec, BrewMasters, Gervin Winemakers can be bought in Kormushka online store.",True,test,0.98,0.933343163785109,0.9146727277544202
+ru-en,многофункциональность,I didn't use machine translation here.,False,test,0.0,0.10133901810791685,0.44293761475135707
+ru-en,"“Возможность оформить займ онлайн, не выходя из дома, делает этот способ кредитования еще более привлекательным, поэтому доля целевых займов, которые оформляются онлайн, определенно будет расти с отметки в 15% от общего объема выдач”, говорит эксперт.","“The possibility to issue a loan on the Internet without leaving the house makes this lending method  even more attractive, so the share of targeted loans, which are issued on line, will definitely grow from the mark of 15% of the total volume of issues”, says an expert.",True,test,0.94,0.9123342993662442,0.7723757961051145
+ru-en,Этикет › Этикет Сервировка Стола Приборы,Etiquette > Etiquette Table Setting Silverware,True,test,0.63,0.42187780283426124,0.7419839631775922
+ru-en,"В ссылке должны быть указаны автор, название издания — «Русская Германия», номер выпуска и дата публикации.","The author must be indicated in the link, the title of the publication Russian Germany, the issue number and publication date.",False,test,1.0,0.9196656244493453,0.8324116567634126
+ru-en,В нашей яркой и удобной одежде ребенок будет чувствовать себя свободно и комфортно.,"Dressed in our bright and comfortable clothes, the child will feel relaxed and happy.",True,test,0.82,0.8730424687044229,0.824612438459781
+ru-en,"Сейчас я осознаю, что все эти друзья были похожи на меня самого — простые стипендиаты, затесавшиеся среди наследников американских состояний… В дружеских отношениях у Донны был редкий талант хранить секреты и использовать воображение, как можно догадаться по ее книгам… Я наслаждался ее завораживающей аурой, пока звезда нашей дружбы вдруг не закатилась.","Now I understand that all of these companions were just like me - ordinary bursary students, fraternizing with the heirs of US wealth... My friend, Donna showed a unique talent of maintaining confidences  and using make believe , as you can see from her books... I admired her charming aura before the glow of our friendship turned.",False,test,0.77,0.8282553161332538,0.6855476648333108
+ru-en,"Я заметил, что причиной бедности моего бедного папы были не столько размеры его заработка (ведь он зарабатывал довольно много), сколько его мысли и действия.","It was obvious for me that the reason of my poor dad's being poor was not so much the amount of his earnings (because he earned quite a lot), but it was because of his thoughts and actions.",True,test,0.95,0.8554515647001061,0.8091822080348066
+ru-en,"Это будоражащий товар по меркам МСК и СПб отсюда ценник, плюс наша не легкая работа.","This is to be an exciting product by the standards of MSC and St. Petersburg, thus the price tag, in addition our hard work.",False,test,0.64,0.5956985559390384,0.4907721538539209
+ru-en,» внедрила свой новый уникальный продукт – портал «, a unique product – the website – was introduced ,True,test,0.67,0.6811718842255706,0.6368890903919526
+ru-en,"В «Исповеди» Толстой пишет, чем с ним произошло то, что происходило с пут­ником в одной восточной притче, когда он бежал от дикого зверя по пустыне, прыгнул в колодец, повис на ветвях кустарника, который рос через стены этого колодца, и увидел, что внизу находится огнедышащий дракон, который его поглотит, если он упадет туда.","Tolstoy describes fantastic adventures in this “Confession” that happened also to the traveler in one eastern parable — the boy ran away from a wild animal in the desert, hid in a well, hung on the branches of a bush that grew through the walls of the well, and saw that there was a fire-breathing dragon below, which would devour him if he fell.",True,test,0.85,0.8634258462646323,0.7873726394274292
+ru-en,Километров 5 всего.,5 kilometers in total.,False,test,0.3,0.621519725825993,0.7129997635615921
+ru-en,От выходной мощности аппарата зависит качество звука.,The quality of the sound depends on the output of the equipment.,True,test,1.0,0.885494185017086,0.6725158096315909
+ru-en,Из-за поломки на Холодногорской линии метро стояли поезда.,"Kholodnogorskaya subway line is out of order, so the trains were stopped.",False,test,0.99,0.6828858278736157,0.6809861031201372
+ru-en,"такой вариант рекламы своего товара можно считать очень успешным, ведь люди не очень любят листовки и всегда их просто выбрасывают.","this option of advertising your product can be considered very successful, because people do not like leaflets and always throw them away.",True,test,0.94,0.8636243838954761,0.8242222900934304
+ru-en,"Я заметил, что причиной бедности моего бедного папы были не столько размеры его заработка (ведь он зарабатывал довольно много), сколько его мысли и действия.","It was obvious for me that the reason of my poor dad's being poor was not so much the amount of his earnings (because he earned quite a lot), but it was because of his thoughts and actions.",True,test,0.95,0.8554515647001061,0.8091822080348066
+ru-en,"Каждый кабель имеет специальный экран, изготовленный в виде оплетки (чаще из медной луженой проволоки).",Each cable is provided with a special screen manufactured in the braided form (more frequently made of tinned copper wire).,True,test,0.99,0.9249540090588521,0.8468476461881678
+ru-en,"Такое наказание получили те российские граждане, в отношении которых была информация об их участии в этой операции.",Such punishment was imposed on those Russian citizens who had been informed about their participation in this operation.,False,test,1.0,0.9479473099630508,0.9044748842926418
+ru-en,"Немедленно предупредить Заказчика при возникновении обстоятельств, замедляющих ход работ или делающих дальнейшее продолжение работ невозможным.",Instantly warn the Customer in case of conditions which slow down the working progress or stop the work.,False,test,0.69,0.7965374611323489,0.6064087805126763
+ru-en,"Правда, без подставки с расположенными под прямым углом к столу 9-дюймовыми экранами работать вряд ли будет удобно.",Although it will be hardly comfortable to work without a stand with 9” screens put at a right angle to the desk. ,False,test,0.79,0.830540261056279,0.7564351986307565
+ru-en,Черный эластичный топ с желтой юбкой переменной длины   Эксцентричность - ваш ответ безумному миру?,Black elastic top with a yellow skirt of changeable length Eccentricity — your answer to this insane world?,True,test,0.94,0.8835843469906787,0.8637564914339815
+ru-en,"На камеру игроки знакомились с аудиторией: интеллигентного вида молодой блондин из Москвы истерично улыбался и отчаянно махал рукой, грузный серьезный мужчина из Самарканда таращился.","Players and the audience were meeting each other on camera: a young, bright-looking blond man from Moscow smiled uncontrollably, and a large, grave man from Samarkand stared at something else.",False,test,0.65,0.7960128048842137,0.5363582786684069
+ru-en,Как мне это ?,Is it good for me?,False,test,0.08,0.5213065056618504,0.7306476662829331
+ru-en,"www.twirpx.com - это служба, обеспечивающая с помощью веб-интерфейса, расположенного только по адресу",www.twirpx.com is a service based on a web interface located only at,True,test,1.0,0.9024949975896106,0.9147587053572539
+ru-en,"К весенним праздникам подготовлено снижение цен на подарки для дам на 35 %, и посуду для приготовления 50%.","Even more so, the good faith holder has full authority to claim compensation for expenses that have arisen since he became aware of the illegality of possession.",False,test,0.0,0.02213907007793182,0.0
+ru-en,"Такое наказание получили те российские граждане, в отношении которых была информация об их участии в этой операции.",Such punishment was imposed on those Russian citizens who had been informed about their participation in this operation.,False,test,1.0,0.9479473099630508,0.9044748842926418
+ru-en,"Можно использовать на различных поверхностях, начиная от асфальта и грунта, и заканчивая различными парапетами, скамейками и т.д.","It is suitable for use on various surfaces, from pavements and earth to differing types of walls, seats , and so on.",False,test,0.81,0.7227249292770264,0.706286262428637
+ru-en,Клуб «Ганновер» проводит регулярно дискотеки для среднего и старшего возраста по датам: 21.09; 12.10; 26.10; 02.11; 23.11; 07.12; 21.12.,Disco dances for active people of middle and senior ages are regularly hosted in the Hanover club on the following days:,True,test,0.0,0.6935709117054328,0.47048693815261133
+ru-en,"В интернет-магазине «Кормушка» виноделы могут приобрести винные дрожжи таких известных брендов, как Alcotec, BrewMasters, Gervin.","Wine yeast from such well-known brands as Alcotec, BrewMasters, Gervin Winemakers can be bought in Kormushka online store.",False,test,0.98,0.933343163785109,0.9146727277544202
+ru-en,Она научно доказана и имеет огромное количество дополнительных преимуществ для человеческого организма.,The fact that it has a huge number of additional benefits for the human body is scientifically proven .,False,test,1.0,0.9326911615063023,0.8838177654720947
+ru-en,"Когда вы установили Python, возникает вопрос – как начать изучать этот язык?",I didn't use machine translation here.,False,test,0.0,0.1580408808806301,0.25945991069326446
+ru-en,Лавины разобрались с Вашингтоном 6:3 и взяли 5 побед в 5-ти матчах.,The Avalanches defeated Washington with the result of 6 points to 3 points and took 5 wins during 5 games.,True,test,1.0,0.8548786250399727,0.7804676881672323
+ru-en,"Требования, предъявляемые к кандидатам в депутаты Меджлиса Туркменистана, членам халк маслахаты и Генгешей, определяются законами Туркменистана.","The candidate requirements for deputies of the Mejlis of Turkmenistan, Halk Maslakhaty and the Gengeshes members are outlined by the Turkmenistani laws.",True,test,1.0,0.9334581746375328,0.7927607358283164
+ru-en,"Да, это не самая надежная в мире трансмиссия .","You are right, this transmission is not the most reliable.",False,test,0.87,0.7323614054799014,0.6488342286834277
+ru-en,"Если вы желаете отказаться от подписки, в каждом письме даны подробные инструкции, как вы можете это сделать.",Each letter contains detailed instructions on how to give up the subscribtion.,False,test,1.0,0.7194982228642617,0.7774424762349406
+ru-en,"Немедленно предупредить Заказчика при возникновении обстоятельств, замедляющих ход работ или делающих дальнейшее продолжение работ невозможным.",Instantly warn the Customer in case of conditions which slow down the working progress or stop the work.,True,test,0.69,0.7965374611323489,0.6064087805126763
+ru-en,Клуб «Ганновер» проводит регулярно дискотеки для среднего и старшего возраста по датам: 21.09; 12.10; 26.10; 02.11; 23.11; 07.12; 21.12.,Disco dances for active people of middle and senior ages are regularly hosted in the Hanover club on the following days:,False,test,0.0,0.6935709117054328,0.47048693815261133
+ru-en,В своем исследовании под названием «Новая эра ядерного сдерживания?,In his research A New Era of Nuclear Deterrence?,True,test,1.0,0.8755799910868057,0.7892611474710836
+ru-en,Смещение.,A shift.,True,test,0.86,0.7173068490790867,0.8242387857962998
+ru-en,Она научно доказана и имеет огромное количество дополнительных преимуществ для человеческого организма.,The fact that it has a huge number of additional benefits for the human body is scientifically proven .,False,test,1.0,0.9326911615063023,0.8838177654720947
+ru-en,"Чем лучше обстоят дела в этом твоем треугольнике, тем лучше для общества, в котором ты существуешь, вот и весь баланс.","The better your triangle is, the better for the society in which you exist and the better the balance.",False,test,0.99,0.9254996938489525,0.8037816148893211
+ru-en,"Продукция K-Rain® широко известна не только на своей родине - США, но так же по всем странам Южной Европы, Ближнего Востока, Азии и СНГ.","USA, as well as all countries of Southern Europe, Middle East, Asia and CIS widely recognize K-Rain® products.",False,test,1.0,0.8460125688270823,0.7793602266609545
+ru-en,"Страна.ua — русскоязычное украинское интернет-издание, запущенное 16 февраля 2016 года журналистом Игорем Гужвой.","“Страна.ua” is the Russian language Ukrainian website launched on February 16, 2016, by journalist Igor Guzhva.",True,test,1.0,0.9225664472005948,0.8849859611571183
+ru-en,Для этого вам необходимо отправить письмо на e-mail: news@MyAltai.com.,For this purpose you need to send an e-mail to: news@MyAltai.com.,True,test,0.99,0.9287361509264273,0.9651348323761657
+ru-en,"Правда, выбрать такую технику не всегда просто, ведь многообразие товара (хлебопечки, холодильники, посудомоечные машины ) в интернет-магазинах Казахстана может заставить растеряться.","However, it is not always easy to choose such a technical equipment, because the variety of goods (bakeries, refrigerators, dishwashers) in online stores in Kazakhstan can make you confused..",True,test,0.76,0.8810498790333857,0.8509850683896842
+ru-en,"Лиф вызвал 911, умоляя их приехать побыстрее.","Leaf called the emergency services, pleading with them to get here as soon as possible.",False,test,0.0,0.5965319440770303,0.6952183956079439
+ru-en,"N 137-ФЗ «О введении в действие Земельного кодекса Российской Федерации», если земельный участок предоставлен до введения в действие Земельного кодекса Российской Федерации для ведения личного подсобного, дачного хозяйства, огородничества, садоводства, индивидуального гаражного или индивидуального жилищного строительства на праве пожизненного наследуемого владения или постоянного (бессрочного) пользования, гражданин, обладающий таким земельным участком на таком праве, вправе зарегистрировать право собственности на такой земельный участок, за исключением случаев, если в соответствии с федеральным законом такой земельный участок не может предоставляться в частную собственность (абзац первый).","No. 137-FZ “On enactment of Land Code of the Russian Federation”, if a land plot is granted before the Land Code of the Russian Federation has been enacted for private plot activities, dachas, horticulture, gardening, individual garage or individual residential construction based on the right of lifetime ownership with hereditary succession or use in perpetuity, the citizen owning such land plot based on such right shall be entitled to register a title to such plot, excluding cases, when in accordance with the federal law such land plot may not be provided as private property (paragraph one).",True,test,0.0,0.8752881172738877,0.738509118374663
+ru-en,"Показателен пример с созданием фракции сторонников президента Медведева в Курганской городской Думе (2009 год), эта попытка встретила резкое противодействие (по слухам, которые непосредственные участники событий подтверждают только в частных разговорах) руководства местного отделения Единой России и правительства области.","It is a prime example for supporters of President Medvedev in the Kurgan City Duma (2009). This attempt was sharply opposed (according to rumors, some direct participants confirm only in private conversations) by local United Russia party branch and regional authority.",False,test,1.0,0.8909065087985101,0.7082927397412973
+ru-en,"Смелые эксперименты провели актеры ТеатраForm, показав спектакль «Игра в столбцы Part one» (Юлия Голованова), основанный на эпатажных текстах самарского поэта Кирилла Миронова.","Bold experiments were carried out by the actors of the Theatre Form, showing the play Playing in columns Part one (Yulia Golovanova), based on the shocking texts of the Samara poet Kirill Mironov.",True,test,0.97,0.918264054505687,0.8322936874944076
+jp-en,ぼきも 読めないとか！,Not studying bookkeeping!,False,test,0.86,0.4265662866083218,0.5726153337055697
+jp-en,じゃあなんか 一応 寄せ書きとか しておこうか,We'll have to get everyone to sign a card or something.,True,test,0.03,0.27885464169416685,0.5775435499052497
+jp-en,そうだったんですね,"Oh, is there?",False,test,0.64,0.6083619674060096,0.7953508111137046
+jp-en,どんなのっていうか、 美味しいって 評判だから、 3時位に 一息つく 休憩のときに 買ってきて みんなで 食べているの、,"If there is one, they go out for a break to buy them around 3 o'clock because it has a good reputation and eat them all together.",False,test,0.99,0.6808699073142782,0.7020566142519873
+jp-en,最近 昔 流行ったもの,"Lately, I've been seeing things that used to be popular",False,test,0.02,0.709903862484261,0.8746821453011493
+jp-en,そうだねえ、、、 東京は 新宿だと ほんとに 人 多くて 困ってるんだよ,"Let’s see... in Tokyo, population is quite high in Shinjuku, which has been causing some problems.",False,test,0.95,0.8095405011737399,0.6869850403969764
+jp-en,おじさんは？,That old dude.,False,test,0.71,0.5470372763139326,0.7244872710658874
+jp-en,え、 そんな うじゃうじゃ なんですか！？,"Huh, it's teeming with them too!?",False,test,0.98,0.541441158376618,0.7853299215554346
+jp-en,そこまで 変わらないでしょ,"You won't change that much, will you?",True,test,0.13,0.7530791009531767,0.7697459811719045
+jp-en,食べたい！,I want to eat it!,True,test,0.1,0.8658649221768097,0.9259732839595283
+jp-en,クリスマスに？,For Christmas?,True,test,0.93,0.9077100759969597,0.9200008397812369
+jp-en,母さんが 電話するから！,You’ll call them!,False,test,0.99,0.48448382525155337,0.7420027082944891
+jp-en,そうだね あなたの 理想の,"Yeah, what kind of person would be ideal for you?",False,test,0.03,0.4819416624925916,0.6899822596213685
+jp-en,美味しい お店がわかれば、 好きな 彼女でも 誘ってみたら いいんじゃない？！,Shouldn't I invite a girl I like if I know a good restaurant?,False,test,0.99,0.6728170330426311,0.7902516394479235
+jp-en,俺は 自分に 合った 勉強方法 ちゃんと 考えてやってるのにさ,Even though he's telling me a way of studying that suits me.,False,test,0.89,0.5664741691124889,0.7949549142448391
+jp-en,わ、 すてき！,"Wow, this is cool!",True,test,0.06,0.7167568176071276,0.8421623667034734
+jp-en,焼肉 何回 食えるよ。,How much yakiniku can you eat?,False,test,0.7,0.5475286275807991,0.6522790812993216
+jp-en,まじーーー,Seriously?,True,test,0.25,0.6086479085855799,0.7638817588018321
+jp-en,ほとんど 家にいないですね,He's almost never home.,True,test,0.95,0.7040875909846969,0.6550521089256249
+jp-en,仲良くなるのは,You start getting on.,False,test,0.07,0.3288845093458543,0.6871564957328613
+jp-en,変ですねえ それは,"That’s strange, isn’t it?",True,test,0.02,0.6237213789263744,0.8223877679864393
+jp-en,楽しみ,I'm looking forward to it.,True,test,0.0,0.38954453991668453,0.7887395333515617
+jp-en,だって トヨタ 自動車の 工場を 見に 行ったって しょうがない じゃないですか,Aren't you dying to visit the Toyota Motors factory?,False,test,1.0,0.7281387802709954,0.712027016962081
+jp-en,私は、 私の能力は 危険な人を 守るために あるの,My capability is to protect people in danger,True,test,1.0,0.8877134010617342,0.8538310770044402
+jp-en,あ、 俺とか 言っちゃった （笑）,"There, I've said it (",False,test,0.98,0.6531614551554263,0.861841990161563
+jp-en,体力 つきませんか？,Aren’t you building up stamina?,True,test,0.9,0.6449626733467921,0.7745212372177046
+jp-en,でも 僕は 苦手です,But I am not good at it.,True,test,0.99,0.7492244164897162,0.8865590513671191
+jp-en,それは 焦りますね。,You are in a hurry to get married.,False,test,0.02,0.43890478360635427,0.6707725137601654
+jp-en,明日？,Tomorrow?,True,test,0.93,0.9745736732948596,0.9785293431061208
+jp-en,ばいばーい！,Bye!,True,test,0.92,0.6711645890689923,0.8101619528112924
+jp-en,どんな 結婚を あげたいの？？,What type of wedding would you like to have?,False,test,0.99,0.8198752659433225,0.8453487866410803
+jp-en,じゃがりこ バター味かな,"Jagarico, maybe butter flavored.",True,test,0.33,0.5107978148789754,0.6224575997952533
+jp-en,あ。,Yes.,False,test,0.89,0.7740954252179341,0.8875457943205789
+jp-en,私に どんなのが 似合うと 思う？,What kind of thing do you think suits me?,True,test,0.94,0.7916830398413848,0.9007533537513477
+jp-en,ドッヂボールとか しませんか？,Would you like to play dodgeball?,True,test,0.94,0.6995689802367903,0.7923255991814129
+jp-en,外食すると、 食費がね。,Eating out means cost of food.,False,test,1.0,0.7618848910094854,0.8371099328624889
+jp-en,本郷 奏多くんの方が タイプです,More of a Kanata Hongo type,False,test,0.71,0.39648677823448697,0.6638303222010666
+jp-en,ガンには なりたくないなー,I don’t want to get cancer,True,test,0.95,0.8300362809164447,0.9196359348389742
+jp-en,本 部長 マジで 無能すぎだろー,The general manager is completely useless,True,test,0.98,0.3705164995380953,0.4164167734305213
+jp-en,三越だと 範囲が大きい 気がします。,I get the sense that there's a large space in front of Mitsukoshi.,False,test,0.04,0.5799633326547271,0.6488504744514052
+jp-en,特に 美味しいのは,But the really delicious thing is,True,test,0.82,0.5628424576805916,0.8133636187773088
+jp-en,いつも どんな 服 着てるの？,What kind of clothes do you usually wear?,True,test,0.98,0.8421999414475521,0.8151901429677566
+jp-en,教えてもらえない？,Can you tell me how?,True,test,0.96,0.7254333819865558,0.8229041334732297
+jp-en,コダックしか 知らないです,I only know Psyduck,False,test,0.95,0.6118521767217227,0.8665297689951763
+jp-en,おじやん、 仕事 忙しそうですか？,Are you busy with work?,False,test,0.99,0.6810654492589763,0.7784747073387379
+jp-en,どんな感じの 機械？？,What were the machines like??,True,test,0.96,0.8210484001336222,0.8130347044594886
+jp-en,ミスチル とかかなー！,Like Mr. Children?,True,test,0.89,0.45926907622283303,0.6882976984495537
+jp-en,: そうだね、 どうしたの？ 安かったの？,": Yes, what's wrong?",False,test,0.99,0.7251304065132149,0.8014282279466198
+ko-jp,마음 아프다,心が痛い。,True,test,0.92,0.836272947038479,0.9755933579302591
+ko-jp,토트넘? 손흥민 뛰잖아 거기,ソン･フンミンがいるチームだよね,False,test,0.02,0.3993501842783851,0.7534872165800808
+ko-jp,그래 너는 코 좀 해,そうね、あんたは鼻ちょっとしてもらったら。,True,test,0.97,0.6004128261095311,0.8403893285799051
+ko-jp,한 21살?,だいたい、21歳？,True,test,0.89,0.8718786152672809,0.9228720918200808
+ko-jp,이주치 용돈 다 털릴듯해,今週の小遣い、すっからかん。,False,test,0.89,0.3799528521586375,0.7757354209228495
+ko-jp,그치 정신적으로 어마어마한 스트레스야. 멘봉 올 거 같은데.,そうでしょ。精神的にものすごいストレスだ。メンタル崩壊しそう。,True,test,0.99,0.7802724125728271,0.9437896427980506
+ko-jp,나냐,出るの？,False,test,0.3,0.4583201485819211,0.7538391249079615
+ko-jp,음.. 걸어 봤다 하기는 힘들어.,うーん....近づいていくのも大変そう。,False,test,1.0,0.774271524572156,0.8975751816651765
+ko-jp,내가 스포를 듣고 봐서 그런가,映画の悪いコメントばっかり聞いたり見たりしたからかな,False,test,0.96,0.3454521515755808,0.6529611536194819
+ko-jp,아이코 그래서 강아지는 어떻게 했어?,ワンちゃんはどうなったの？,True,test,0.93,0.6520653864597027,0.831670849743642
+ko-jp,요즘 누가 완전히 좋아해서 연애하니,恋愛なんて そんなものだろ,False,test,0.95,0.7276273990242125,0.7808093491645427
+ko-jp,그래. 나 같은 남자. 딴 소리는 그만하고 나 지금 엄청 고민이야!,そうだな。俺のような男そういないだろ？冗談はこれぐらいにして、俺は今すごく悩んでる!,True,test,1.0,0.7436049204526748,0.9177834174197623
+ko-jp,들이가 알려주지 않았을까?,風の便りに聞いているんじゃないかな？,False,test,1.0,0.5784831112650038,0.8588697644263665
+ko-jp,맞아. 사실 친구같은게 가장 좋지.,そうだよね。友達のような関係が一番いいよね。,True,test,1.0,0.8462034703952014,0.9406337149172637
+ko-jp,룬도 바뀌고 특성도 바뀌었잖아,ルールも変わって特性も変わったじゃん,False,test,1.0,0.5248886414249809,0.8695214896519459
+ko-jp,조정석 그친구,チョ・ジョンソクの彼女,False,test,0.97,0.40614751362124907,0.7605438783196976
+ko-jp,근데 토트넘 말고도 맨유 맨시티 아스날 재미있는 경기하는 팀들도 많으니깐 잘 봐봐,他にもマンUや マンチェスター･シティー アスナルもあるし面白いから よく見てみろよ,False,test,1.0,0.6711551908379464,0.8051562567951045
+ko-jp,그러게 나 선 본다 할때 냅두지,だから私がお見合いするって言う時放ってくれればよかったのに,True,test,0.99,0.4389672231038652,0.8328317973167985
+ko-jp,유로인 게 좀 그래,有料なのがちょっとね,False,test,0.98,0.4140256982733313,0.7915752946357473
+ko-jp,너무 신난다!,めっちゃ気分いい！,True,test,0.99,0.5663156914414781,0.8986204093833554
+ko-jp,뭐 그럭저럭,まあまあ,True,test,0.83,0.9567516902847026,0.916235320698958
+ko-jp,순두부찌개 좋네! 추천해줘서고마워ㅎㅎ,純豆腐チゲ　いいわね！,False,test,1.0,0.5946809624725476,0.8479246156376266
+ko-jp,이 인용으로??,ダブルベッド？？,False,test,0.96,0.40268297322408,0.6259494401708352
+ko-jp,정리는 다 했어,一通り目は通した,False,test,0.83,0.6777056403990245,0.8760645351885832
+ko-jp,10살이면 괜찮지 그러면 후리스 하나 입고 갈까,10歳だったら大丈夫でしょ。だったらパーカー着て行こうか,True,test,0.0,0.8120673918072521,0.9263071969751882
+ko-jp,그래 거기가 가격대비 괜찮은 것 같아,そうね、そこがコスパいいよね。,True,test,0.98,0.631552219989563,0.8350684646649547
+ko-jp,우리 아침에,私達、この機会に,False,test,0.05,0.3579816969890924,0.704808147477582
+ko-jp,우리는 걔 생일날 책상 서랍에 선물 넣어두고 모르는 척 연기하자,私たち、彼女の誕生日の日に、机の引き出しにプレゼントいれて、知らないふりしよう,True,test,1.0,0.8106651757352095,0.8743912210869067
+ko-jp,아 그 양하람이라고,あ、それヤン・ハラムっていう,True,test,0.99,0.7569535217018334,0.925504905971994
+ko-jp,"아주 그냥 프로포즈를 하세요, 그냥",ただプロポーズさえすりゃいいんだよ,False,test,0.93,0.5197178521814355,0.8939351298986611
+ko-jp,야 뭐 해,おい、何してる,True,test,0.98,0.7180198223818035,0.9386374849351742
+ko-jp,나 돈 적당히 있어.,私、お金はほどほどにある。,True,test,0.99,0.8481911962614013,0.8270545522891282
+en-de,I hate links when on Reddit it's just there,"Ich hasse Links, wenn es auf Reddit einfach da ist",True,test,0.9,0.9294701527711091,0.9590819091626632
+en-de,And Mike will go crazy and love it,Mike wird verrückt und es lieben,False,test,0.98,0.8368601015230692,0.895928360662047
+en-de,No offense,Nichts für ungut,True,test,0.41,0.4864795983530863,0.7081435286107967
+en-de,How about them bears?,Was geht bei den Bears?,False,test,0.59,0.7349207787494659,0.7765482091915055
+en-de,She be having everybody bout they Sundays best,"Sie hat alle, die sonntags am besten sind",False,test,0.01,0.8638283255091713,0.8631656453493863
+en-de,Hahaha my mom didn't know anything about the series,"Hahaha, meine Mutter wusste so gar nichts über die Reihe",False,test,0.99,0.8494502067878826,0.8903165725328548
+en-de,She's my everything,Sie ist alles für mich,True,test,0.75,0.8692324258384303,0.8859347140070013
+en-de,And talk irrelevant things and make poop jokes,Und über irrelevante Dinge redet und Kackwitze macht,False,test,0.59,0.8265282149617444,0.9048182948341954
+en-de,But I can't remember the title.,"Aber ich weiß nicht mehr, wie der hieß.",False,test,0.95,0.6733694728112957,0.715088969323491
+en-de,And then Peter,Und dann über Petrus,False,test,0.75,0.9629971672483425,0.9539944844368038
+en-de,It's fun because I can buy so many outfits and not feel guilty,"Es macht Spaß, weil man ohne schlechtes Gewissen sehr viele Klamotten kaufen kann",False,test,0.8,0.83432845303509,0.8733454934989431
+en-de,Yeah the internship has me working non stop,"Ja, das Praktikum hilft mich ohne Unterbrechung zu arbeiten",False,test,0.67,0.6675792226639399,0.7234855320189091
+en-de,I never have,Ich noch nie,False,test,0.56,0.8870888298697926,0.9395967350505194
+en-de,How can one live without friends?,Wie kann man ohne Freunde leben?,True,test,0.74,0.9706614246662433,0.9377807081255329
+en-de,I think the author was probably Jesus,"Ich denke, der Autor war wahrscheinlich Jesus",True,test,0.86,0.9844594375762261,0.9867482020933545
+en-de,But also the Whitney,Aber das Whitney genauso,True,test,0.14,0.9240344508899585,0.9269375327727123
+en-de,The perfect way to celebrate my 26th,"Die perfekte Art, meinen 26. Geburtstag zu feiern",True,test,0.68,0.9083330024984683,0.9351951316682006
+en-de,The boat is called the wicked pissah,Das Boot heißt „Wicked Pissah“,True,test,0.97,0.9032151370434999,0.9238583349037577
+en-de,Aren't we talking about Mary?,Reden wir nicht über Mary?,True,test,0.99,0.9661088040697394,0.9135307752330513
+en-de,Mine are too but I don't have a clue where they got it from,"Meine sind es auch, aber ich habe keinen Schimmer, woher sie das haben",True,test,0.78,0.7829965485804143,0.8414652982897954
+en-de,Tomorrow at 5 during the evening.,Morgen Abend um 5 Uhr.,True,test,0.46,0.9184094333921777,0.9680340771229097
+en-de,They look ok...but if u have glasses like me,Sie sehen okay aus … Aber wenn du schon eine Brille trägst so wie ich,False,test,0.95,0.8785796714808688,0.9282941793662753
+en-de,Ha ha ha big boobs are annoying though I'm jealous of you,"Hahaha, große Brüste sind nervig, auch wenn ich etwas eifersüchtig auf dich bin",True,test,0.92,0.8717498007630086,0.9310974491145054
+en-de,Maybe you can strap it to a string?,Vielleicht kannst du ihn an eine Schnur binden?,False,test,0.91,0.8334009651087515,0.907341137633646
+en-de,"And if life doesn't imitate art, then what does art imitate?","Und wenn das Leben die Kunst nicht imitiert, was imitiert dann die Kunst?",True,test,0.89,0.9286112131924613,0.9184877339453075
+en-de,TBH don't really want the Warriors to win.,"Um ehrlich zu sein, will ich nicht wirklich, dass die Warriors gewinnen.",True,test,0.97,0.8221136896226707,0.8969983319345309
+en-de,She has really expensive taste and I have a really low salary,Sie hat einen wirklich teuren Geschmack und ich nur ein echt kleines Gehalt,True,test,0.61,0.8852659254805596,0.8919643932755519
+en-de,Ending to a new beginning so we need to end it with a big party,"Das Ende eines Neuanfangs, also müssen wir ihn mit einer großen Partei beenden",False,test,0.78,0.9107440599343403,0.8876562655428262
+en-de,Yeah she's a little intense for my taste,"Ja, sie ist etwas zu angespannt für meinen Geschmack",False,test,0.82,0.8224849197489823,0.8655042861334619
+en-de,But I would like she's bad about this money thing,Aber sie ist so furchtbar bei dieser Geldgeschichte,False,test,0.84,0.7006645790209617,0.7490951107236565
+en-de,Get dirty,Etwas raueres,False,test,0.61,0.5288031221334707,0.7051523078238118
+en-de,New school.,Neu,False,test,0.02,0.589104169647821,0.7743157907365128
+en-de,I am the only only,Ich bin das einzige Einzelkind,False,test,0.09,0.800519902799089,0.8704717421111803
+en-de,Or maybe the Gap,Oder vielleicht zu Gap,False,test,0.02,0.9652012873843734,0.9740865004666284
+en-de,I try so hard to memorize it,Dabei versuch ich sie ja auswändig zu lernen,False,test,0.74,0.6312722701822845,0.7864596272670967
+en-de,What kind of rims?,Welche Art von Radkranz?,True,test,0.62,0.7580611619695323,0.8368270065647896
+en-de,"But yeah, her dad hated me","Aber ja, ihr Vater hat mich gehasst",True,test,0.6,0.8461712814538693,0.9027088443460474
+en-de,That is wild tho,Findest du wirklcih,False,test,0.68,0.3401634732713538,0.7722053405087972
+en-de,Too expensive.,Das Leben hier ist einfach zu kostspielig.,False,test,0.03,0.4249835951307266,0.627274095098227
+en-de,I learned my lesson from the lady time,Ich hab meine Lektion aus der Zeit früher gelernt,False,test,0.74,0.8017425539192117,0.884825003086696
+en-de,Did I tell you about the date I had to run out on last week?!,"Habe ich dir von dem Date erzählt, bei dem ich letzte Woche abhauen musste?!",True,test,0.64,0.9220399113062503,0.9535838414093125
+en-de,Haha you don't have to get dirty to appreciate nature,"Haha, es muss ja nicht rau werden, wenn es in die Natur geht",False,test,0.83,0.6683061758353372,0.79780542168765
+en-de,Dude your nerd lingo is way way better than mine,"Mann, deine Nerd-Ausdrucksweise ist um einiges besser als meine",True,test,0.71,0.6449485760002234,0.884583815915954
+en-de,Sarah from the reception told me Mike knows about cars,"Sarah von der Rezeption erzählte mir, dass sich Mike mit Autos auskennt",True,test,0.8,0.9206204847236049,0.8748151106636723
+en-de,I've got enough money!,Ich habe genug Geld!,True,test,0.97,0.9755893283761972,0.9847834639076516
+en-de,We should have called the cops,Wir hätten die Polizei rufen sollen.,True,test,0.75,0.9204025632412289,0.9427124234137003
+en-de,I knew you were the right person to come to Layla,"Ich wusste, dass Du die richtige Person bist, um zu Layla zu kommen",True,test,0.88,0.9625126296989842,0.9288787770785709
+en-de,I can bench 180,Ich kann 180 auf der Bank drücken,True,test,0.8,0.8363168837686183,0.8683145540586676
+en-de,"Love them too, and they have so many varieties of colors",Ich liebe sie auch und sie haben so viele verschiedene Farben,True,test,0.68,0.9222187126518978,0.9670490837136927
+en-de,She really needs to fix her straight Fs,Sie muss unbedingt ihre Sechsen verbessern,True,test,0.62,0.5583363583277647,0.6843857175205859
+en-de,And it's fun to watch cause the moms are always fighting,"Und es macht Spaß zu schauen, weil die Mütter immer streiten.",False,test,0.8,0.9098581591803796,0.9074623560562469
+en-de,Did I do something wrong?,Was habe ich falsch gemacht?,False,test,0.75,0.8982149256934369,0.8809842536019361
+en-de,Oh no abstinence is key,"Oh nein, Abstinenz ist wichtig",True,test,0.09,0.8040495846851947,0.9113350972071772
+en-de,There is hope with the widespread adoption of renewable energies,"Mit der weit verbreiteten Einführung erneuerbarer Energien besteht Hoffnung,",True,test,0.91,0.9292243890292599,0.9130906398883085
+en-de,I could never get into heavy metal or country,Ich hatte nie Interesse für Heavy Metal oder Country,True,test,0.7,0.8078502880590855,0.7955632557718713
+en-de,I can't even live my life anymore LOL,Ich kann nicht mehr weiterleben LOL,False,test,0.7,0.9466816031969492,0.8837710276472976
+en-de,She and her husband love 1950s jazz and some Sade.,Sie und ihr Mann lieben den Jazz aus den 50er Jahren und die Musik von Sade.,True,test,0.99,0.9383565326586362,0.8055141635603924
+en-de,I miss him,Ich vermisse ihn,True,test,0.73,0.9310634466281029,0.961362315116912
+en-de,We will be belonging,Wir werden dazugehören,True,test,0.68,0.6258965995019392,0.8050670300386749
+en-de,What is your favorite one,Was ist dein Lieblingsfilm,False,test,0.7,0.6938408758922252,0.8256984055653498
+en-de,"Yes, it's good to be a 20 year old high school graduate","Ja, es ist gut ein 20 Jahre alter Abiturient zu sein",True,test,0.52,0.8774520599721974,0.913870436751226
+en-de,Wait what take it back,"Moment, was, nimm das sofort zurück",True,test,0.73,0.7426938206917225,0.8237854039022836
+en-de,Probably those sticky things that go on the fridge,Wahrscheinlich die du dir an den Kühlschrank kleben kannst,False,test,0.77,0.7149975862332303,0.8497101505057931
+en-de,I wish they had an application called make your own dinner,"Ich wünschte, es gäbe eine App namens mein Abendessen machen",False,test,0.67,0.7919725053575973,0.8613966061840892
+en-de,As in area,Im Sinne von Ecke,False,test,0.66,0.5608306488473367,0.8283352186755351
+en-de,Was he healthy?,War er gesund?,True,test,0.49,0.866835348271239,0.8392853661621147
+en-de,And the characters seem impossible.,Und die Zeichen sind unmöglich.,False,test,0.96,0.7906173979186721,0.8817872944098064
+en-de,Gold coins!?,Goldmünzen!?,True,test,0.91,0.9853552064727849,0.99158019335963
+en-de,Who could resist this,Wer könnte dir widerstehen,False,test,0.74,0.7386820682919081,0.8587775384512333
+en-de,Maybe me,Ich vielleicht,True,test,0.42,0.9026802602191022,0.973557138365456
+en-de,"Appalled that he has votes, followers, and supporters.","Entsetzt, dass er Stimmen, Anhänger und Unterstützer hat.",True,test,0.82,0.8410394948691642,0.817187622624306
+en-de,Countries like Indonesia are still ass backwards on most issues because of Islam,"Länder wie Indonesien sind in den meisten Fragen immer noch , weil sie islamisch sind",False,test,0.92,0.9186329350742372,0.9301664416419517
+en-de,And you get soooo much money at the reception,Und man kriegt noch soooo viel Geld geschenkt,False,test,0.65,0.7643896370610959,0.8514571954005983
+en-de,How do they do that,Wie denn das,False,test,0.33,0.6291728228445268,0.8906522350927584
+en-de,Did you enjoy your relatives house in Christmas,Gefällt es dir zu Weihnachten im Haus deiner Familie,False,test,0.69,0.8494335249277761,0.8842071640337692
+en-de,CPFP was her idea but no one liked her enough as a coworker to give her that job,"CPFP war ihre Idee, aber niemand mochte sie als Mitarbeiterin genug, um ihr diesen Job zu geben",True,test,0.54,0.9455414802931981,0.9192590330218979
+en-de,I'm so sorry it had to be pie related,"Es ist ärgerlich, dass es was mit Kuchen zu tun hatte",False,test,0.74,0.6170275476029029,0.8223907672051429
+en-de,Couldn't play any instruments though?,Konnte aber keine Instrumente?,False,test,0.89,0.8888465340311451,0.8856003011215576
+en-de,Hell yeah I listen to it on my way to work,"Na aber sowas von, ich höre es auf meinem Weg zur Arbeit",False,test,0.62,0.6945564337084795,0.8697554287108207
+en-de,Ran away at night underground,Nachts unterirdisch abgehauen,True,test,0.71,0.8715364609182674,0.8820897156290788
+en-de,"Not open source, every 5 months preplanned obsolete","Kein Open Source, alle 5 Monate im Voraus geplant, veraltet",True,test,0.64,0.9383281617486665,0.9192845263808773
+en-de,All of the Englands,Alle Englands?,False,test,0.64,0.8402722467821576,0.8746466545464906
+en-de,I will have to look at videos of it,Ich muss mir Videos davon ansehen,True,test,0.7,0.9143374735747257,0.9637899327225257
+en-de,The logistics of the entire wedding is probably crazy,Die Logistik der gesamten Hochzeit ist wahrscheinlich verrückt,True,test,0.71,0.9538752441952284,0.9556583010125856
+en-de,Do you all have time the day after tomorrow?,Hast du übermorgen Zeit?,False,test,0.69,0.7978091592707421,0.9127319833183454
+en-de,I should at least die,Dann würde ich zumindest sterben wollen,False,test,0.76,0.7432849694245073,0.8324416489504478
+en-de,That's cool man what are your plans for Christmas?,"Das ist cool, Mann, was sind deine Pläne für Weihnachten?",True,test,0.72,0.974136714290171,0.9506878458161645
+en-de,Club breakfast.,Club breakfast.,False,test,0.22,0.9999999999999999,0.9999999999999996
+en-de,And we've been sneaking off every weekday since,Und wir haben uns seitdem jeden Wochentag davon gestohlen,False,test,0.95,0.8931165028289446,0.894831896291016
+en-de,That's why hide and go seek is not fun,Darum macht Verstecken keinen Spaß,True,test,0.96,0.7480389471211687,0.8318353069025517
+en-de,Will do that now,Ich werde das jetzt machen,True,test,0.64,0.9353889824669611,0.9832733572904258
+en-de,I don't want to get shot tonight,Ich will heute Nacht nicht raus sein,False,test,0.83,0.7424892329496429,0.840345839908704
+en-de,For the youth,Für die Jugend,True,test,0.73,0.9738248692362805,0.9675719475076741
+en-de,I won't water the lawn now.,"Ich werde jetzt aufhören, den Rasen zu gießen.",False,test,0.88,0.6906017755622688,0.8685327472193491
+en-de,How are you gonna prefer hardware to have something like that?,"Wie wirst du Hardware bevorzugen, um so etwas zu haben?",False,test,0.73,0.9300829174352994,0.9549002484852696
+en-de,Private schools give more money,Privatschulen sind teurer,False,test,0.42,0.8195420399138026,0.7913453545351437
+en-de,"Cheese steak for deals, then might stop by Brando's to see what's up","Cheese Steaks vielleicht, dann zu Brando‘s und mal sehen was geht",True,test,0.87,0.8631120628255885,0.9205312016219769
+en-de,I always got off-brand,Ich nehme immer eine unbekannte Marke,True,test,0.74,0.7667516474786972,0.763568840317097
+jp-zh,彼女が 以前 欲しいって 言ってた ものが あるので、 行って みます！,有个东西她以前说过想要，所以我去看看！,True,test,1.0,0.7790273819150265,0.857341662496919
+jp-zh,みつを,无法言喻的喜欢,False,test,0.15,0.310467177768414,0.7339713004762256
+jp-zh,被る 気がする,我觉得会有两项并列取得第1名,False,test,0.0,0.29712885583446186,0.6031136388970673
+jp-zh,付き合っていくのが 一番だと 思います,一定要以此为前提,False,test,0.96,0.34441194361563593,0.7664708343476523
+jp-zh,そこから 世界は 変わったわね,从那之后整个世界都变了,True,test,1.0,0.8683028820490505,0.8840851958064921
+jp-zh,まさか おめさんが まだ 初デートの こと 覚えてたなんてね,没想到Ome你还记得第一次约会的情景啊,True,test,0.99,0.7379719731974491,0.865498537630947
+jp-zh,パソコンなら 使えるから いいかもね,如果智能手机的功能和电脑差不多的话，我应该会用，买一台也不错呢,False,test,0.0,0.596315079895647,0.8512327538676172
+jp-zh,老人には すごい ありがたい ことね,这对于老年人也是个好消息,True,test,0.99,0.7337864710011743,0.7976719564553432
+jp-zh,高校の 先生が、 私 私立 だったんですけど 色々と あって 学校 いかない 時期とか あって,高中时代的那位老师和我有过一段回忆。因为我上的是私立高中，上学期间发生了很多事，有一段时间都没有去学校上学,False,test,0.98,0.8323327386725011,0.8850784370671438
+jp-zh,こんなに 僕のことを 思ってくれている,我的父母非常,False,test,0.23,0.23838424348972237,0.5699025403882287
+jp-zh,流石に 面接すれば 良くないですかー？,还是不可以接受采访吗？,False,test,0.99,0.5201170420451084,0.7401956790256139
+jp-zh,こちらは、 山に 囲まれた 盆地なのですが、 村の 真ん中を 大きな 河川が 通っていまして、,您看这个村庄呢，虽然地处群山环绕的盆地，但是中间有一条大河横贯两岸，,True,test,1.0,0.8533716186917687,0.8074071704321022
+jp-zh,あら、 失礼ね！,哎呀，你好烦啊！,True,test,0.99,0.774103178758547,0.9410753498713587
+jp-zh,まだ 校長が スケボーを してるのを 見た ことは ないです。。。,还没见过呢。。。,False,test,0.04,0.3804349520418182,0.5930850013571463
+jp-zh,染めますねー ハゲてますから ハゲ隠しに。,会染哦，等秃顶了，还能把秃头遮一遮。,False,test,0.99,0.4968207656675689,0.8660673894450492
+jp-zh,いや、 いや、 お前も オヤジかの ツッコミやろ そこは （笑）,不，不，这时候应该吐槽：“你也是大叔吗？”才对吧（笑）,True,test,0.98,0.6811745274780523,0.7985357314419592
+jp-zh,実家 大好きだから 笑,我很喜欢老家 笑,True,test,0.96,0.7552014564791085,0.9005888965924371
+jp-zh,いつも 家で 見ながら 家族で 盛り上がってるわ、 楽しいわぁ,我总是在家里和家人一边看，一边气氛就热闹起来了，非常有意思,True,test,0.99,0.7872614070900827,0.9196031933681277
+jp-zh,小さい 頃から,小孩子,False,test,0.9,0.5401164777107036,0.5694629049132698
+jp-zh,先天性の 病気さ。,因为我曾经患了一种先天性疾病。,False,test,0.74,0.6528562476022121,0.8751265295390547
+jp-zh,あ。 （笑）,啊。（笑）,True,test,0.95,0.9677430977096708,0.9791231884094196
+jp-zh,そうなの,是吗,True,test,0.95,0.8837616211237812,0.9201368043624636
+jp-zh,やっぱり おこられた？,最后还是被吵了吗？,False,test,0.69,0.561765831575344,0.7909054691252928
+jp-zh,もう 結構 行ってないから できないかも。,我已经很久都没去过了，说不定都不会了。,True,test,0.09,0.5066822707650482,0.6815314610543952
+jp-zh,また今度 話しましょ！,下次再聊吧！,True,test,0.99,0.902171874658465,0.8732525177191337
+jp-zh,デッド ライド きよし,Dead ride kiyoshi,False,test,0.16,0.2755465231049673,0.7064549684807107
+jp-zh,会社の エントランス 貼っときたい,贴在公司入口,False,test,0.99,0.506042192491881,0.7784137232250998
+jp-zh,勉強 両立よ,还得兼顾学习哦,True,test,0.97,0.7927444525601269,0.8831829308465147
